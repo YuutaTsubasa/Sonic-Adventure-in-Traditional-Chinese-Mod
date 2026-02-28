@@ -1,0 +1,17 @@
+Name=texlist_00D8FF08
+TexnameArrayName=textures_00D8FE60
+NumTextures=14
+TextureNames[0]=mra_128s_kawakabeb
+TextureNames[1]=mra_s_takiwater
+TextureNames[2]=mrc_64s_jimend
+TextureNames[3]=mr_008o_kuro
+TextureNames[4]=mr_064n_yasia
+TextureNames[5]=mr_064s_los031
+TextureNames[6]=mr_128n_bushb
+TextureNames[7]=mr_128s_eda
+TextureNames[8]=mr_128s_jukai
+TextureNames[9]=mr_256n_busha
+TextureNames[10]=mr_256s_junf
+TextureNames[11]=mr_256s_kabef
+TextureNames[12]=mr_64s_kawa
+TextureNames[13]=kawaisid

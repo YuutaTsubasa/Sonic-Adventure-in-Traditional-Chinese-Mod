@@ -1,0 +1,12 @@
+Name=texlist_00DEEF7C
+TexnameArrayName=textures_00DEEF10
+NumTextures=9
+TextureNames[0]=ecsc_s_bkca
+TextureNames[1]=ecsc_s_bkcb
+TextureNames[2]=ecsc_s_bkcc
+TextureNames[3]=ecsc_s_bkcd
+TextureNames[4]=stg_s_bkfirec
+TextureNames[5]=stg_s_bkfired
+TextureNames[6]=ecsc_s_cla
+TextureNames[7]=ecsc_s_clb
+TextureNames[8]=ecsc_s_clc

@@ -1,0 +1,22 @@
+{
+  "pvm_name": "ICM0001_3.PVM",
+  "source_path": "Process/PVMs/ICM0001_3.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "station3",
+      "safe_name": "station3",
+      "pvr_file": "000_station3.pvr",
+      "png_file": "000_station3.png",
+      "png_generated": true,
+      "gbix": 600908,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 256,
+      "height": 256,
+      "pvrt_size_field": 131096
+    }
+  ]
+}

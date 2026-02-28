@@ -1,0 +1,52 @@
+{
+  "pvm_name": "EGM1SORA.PVM",
+  "source_path": "Process/PVMs/EGM1SORA.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "mrasc_256s_hirusoraa",
+      "safe_name": "mrasc_256s_hirusoraa",
+      "pvr_file": "000_mrasc_256s_hirusoraa.pvr",
+      "png_file": "000_mrasc_256s_hirusoraa.png",
+      "png_generated": true,
+      "gbix": 227097,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 256,
+      "height": 256,
+      "pvrt_size_field": 131096
+    },
+    {
+      "index": 1,
+      "name": "mrasc_016s_hiruumi",
+      "safe_name": "mrasc_016s_hiruumi",
+      "pvr_file": "001_mrasc_016s_hiruumi.pvr",
+      "png_file": "001_mrasc_016s_hiruumi.png",
+      "png_generated": true,
+      "gbix": 229901,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 16,
+      "height": 16,
+      "pvrt_size_field": 696
+    },
+    {
+      "index": 2,
+      "name": "mra_008s_hirusorab",
+      "safe_name": "mra_008s_hirusorab",
+      "pvr_file": "002_mra_008s_hirusorab.pvr",
+      "png_file": "002_mra_008s_hirusorab.png",
+      "png_generated": true,
+      "gbix": 229908,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 8,
+      "height": 8,
+      "pvrt_size_field": 184
+    }
+  ]
+}

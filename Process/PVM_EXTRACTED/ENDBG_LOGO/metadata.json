@@ -1,0 +1,67 @@
+{
+  "pvm_name": "ENDBG_LOGO.PVM",
+  "source_path": "Process/PVMs/ENDBG_LOGO.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "adx_rogo",
+      "safe_name": "adx_rogo",
+      "pvr_file": "000_adx_rogo.pvr",
+      "png_file": "000_adx_rogo.png",
+      "png_generated": true,
+      "gbix": 365796,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 128,
+      "height": 128,
+      "pvrt_size_field": 32792
+    },
+    {
+      "index": 1,
+      "name": "end_teamlogo",
+      "safe_name": "end_teamlogo",
+      "pvr_file": "001_end_teamlogo.pvr",
+      "png_file": "001_end_teamlogo.png",
+      "png_generated": true,
+      "gbix": 999999000,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 128,
+      "height": 128,
+      "pvrt_size_field": 32792
+    },
+    {
+      "index": 2,
+      "name": "mpeg_rogo",
+      "safe_name": "mpeg_rogo",
+      "pvr_file": "002_mpeg_rogo.pvr",
+      "png_file": "002_mpeg_rogo.png",
+      "png_generated": true,
+      "gbix": 365795,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 128,
+      "height": 128,
+      "pvrt_size_field": 32792
+    },
+    {
+      "index": 3,
+      "name": "studio_rogo",
+      "safe_name": "studio_rogo",
+      "pvr_file": "003_studio_rogo.pvr",
+      "png_file": "003_studio_rogo.png",
+      "png_generated": true,
+      "gbix": 365797,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 256,
+      "height": 64,
+      "pvrt_size_field": 32792
+    }
+  ]
+}

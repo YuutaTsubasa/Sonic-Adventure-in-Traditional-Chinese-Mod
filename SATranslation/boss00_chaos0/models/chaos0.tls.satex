@@ -1,0 +1,6 @@
+Name=texlist_0003AD00
+TexnameArrayName=textures_0003ACDC
+NumTextures=3
+TextureNames[0]=c2tx_brain
+TextureNames[1]=c2tx_eye1
+TextureNames[2]=c2tx_mizu0

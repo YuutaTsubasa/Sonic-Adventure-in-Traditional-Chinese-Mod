@@ -1,0 +1,22 @@
+{
+  "pvm_name": "M_EM_SKY.PVM",
+  "source_path": "Process/PVMs/M_EM_SKY.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "mr_064s_emesky",
+      "safe_name": "mr_064s_emesky",
+      "pvr_file": "000_mr_064s_emesky.pvr",
+      "png_file": "000_mr_064s_emesky.png",
+      "png_generated": true,
+      "gbix": 600784,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 10936
+    }
+  ]
+}

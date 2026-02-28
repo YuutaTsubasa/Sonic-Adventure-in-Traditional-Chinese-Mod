@@ -1,0 +1,1196 @@
+﻿C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\ReadMe.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\minigamesel\a_boss_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\minigamesel\a_minigame_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\minigamesel\b_boss_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\minigamesel\b_minigame_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\minigamesel\e_boss_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\minigamesel\e_minigame_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\minigamesel\k_boss_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\minigamesel\k_minigame_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\minigamesel\ms_minigame_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\minigamesel\m_boss_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\minigamesel\m_minigame_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\minigamesel\s_boss_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\minigamesel\s_minigame_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\trialactsel\a_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\trialactsel\b_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\trialactsel\e_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\trialactsel\k_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\trialactsel\ms_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\trialactsel\m_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\advertise\trialactsel\s_list.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Identifiers.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Japanese Level List.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Amy\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Amy\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Amy\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Amy\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Amy\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Big\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Big\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Big\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Big\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Big\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Eggman (Unused)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Eggman (Unused)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Eggman (Unused)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Eggman (Unused)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Eggman (Unused)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Gamma\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Gamma\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Gamma\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Gamma\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Gamma\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Knuckles\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Knuckles\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Knuckles\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Knuckles\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Knuckles\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Metal Sonic\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Metal Sonic\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Metal Sonic\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Metal Sonic\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Metal Sonic\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Sonic\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Sonic\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Sonic\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Sonic\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Sonic\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Tails\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Tails\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Tails\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Tails\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Tails\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Tikal (Unused)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Tikal (Unused)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Tikal (Unused)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Tikal (Unused)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Character Unlock Messages\Tikal (Unused)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\01 Intro (1)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\01 Intro (1)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\01 Intro (1)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\01 Intro (1)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\01 Intro (1)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\02 Intro (2)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\02 Intro (2)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\02 Intro (2)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\02 Intro (2)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\02 Intro (2)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\03 Meeting Sonic\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\03 Meeting Sonic\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\03 Meeting Sonic\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\03 Meeting Sonic\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\03 Meeting Sonic\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\04 Before Twinkle Park\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\04 Before Twinkle Park\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\04 Before Twinkle Park\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\04 Before Twinkle Park\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\04 Before Twinkle Park\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\05 After Twinkle Park\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\05 After Twinkle Park\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\05 After Twinkle Park\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\05 After Twinkle Park\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\05 After Twinkle Park\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\06 Kidnapped\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\06 Kidnapped\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\06 Kidnapped\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\06 Kidnapped\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\06 Kidnapped\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\07 Prison\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\07 Prison\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\07 Prison\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\07 Prison\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\07 Prison\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\08 Let's see if you can clear this awesome game!\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\08 Let's see if you can clear this awesome game!\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\08 Let's see if you can clear this awesome game!\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\08 Let's see if you can clear this awesome game!\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\08 Let's see if you can clear this awesome game!\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\09 I can't believe this is happening!\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\09 I can't believe this is happening!\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\09 I can't believe this is happening!\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\09 I can't believe this is happening!\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\09 I can't believe this is happening!\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\10 Behold the Warrior Feather\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\10 Behold the Warrior Feather\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\10 Behold the Warrior Feather\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\10 Behold the Warrior Feather\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\10 Behold the Warrior Feather\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\11 Tikal Flashback (1)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\11 Tikal Flashback (1)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\11 Tikal Flashback (1)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\11 Tikal Flashback (1)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\11 Tikal Flashback (1)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\12 Tikal Flashback (2)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\12 Tikal Flashback (2)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\12 Tikal Flashback (2)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\12 Tikal Flashback (2)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\12 Tikal Flashback (2)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\13 After Tikal Flashback\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\13 After Tikal Flashback\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\13 After Tikal Flashback\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\13 After Tikal Flashback\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\13 After Tikal Flashback\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\14 Before Sonic vs. Gamma\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\14 Before Sonic vs. Gamma\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\14 Before Sonic vs. Gamma\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\14 Before Sonic vs. Gamma\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\14 Before Sonic vs. Gamma\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\15 After Sonic vs. Gamma\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\15 After Sonic vs. Gamma\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\15 After Sonic vs. Gamma\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\15 After Sonic vs. Gamma\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\15 After Sonic vs. Gamma\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\16 After Tails leaves\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\16 After Tails leaves\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\16 After Tails leaves\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\16 After Tails leaves\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\16 After Tails leaves\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\17 Before Final Egg\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\17 Before Final Egg\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\17 Before Final Egg\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\17 Before Final Egg\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\17 Before Final Egg\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\18 Final Egg - ZERO Appears\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\18 Final Egg - ZERO Appears\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\18 Final Egg - ZERO Appears\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\18 Final Egg - ZERO Appears\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\18 Final Egg - ZERO Appears\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\19 After Final Egg\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\19 After Final Egg\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\19 After Final Egg\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\19 After Final Egg\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\19 After Final Egg\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\20 Before ZERO Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\20 Before ZERO Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\20 Before ZERO Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\20 Before ZERO Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\20 Before ZERO Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\21 After ZERO Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\21 After ZERO Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\21 After ZERO Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\21 After ZERO Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\21 After ZERO Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\22 Here's the Long Hammer\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\22 Here's the Long Hammer\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\22 Here's the Long Hammer\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\22 Here's the Long Hammer\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Amy\22 Here's the Long Hammer\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\01 Intro\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\01 Intro\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\01 Intro\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\01 Intro\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\01 Intro\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\02 Looking for Froggy\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\02 Looking for Froggy\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\02 Looking for Froggy\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\02 Looking for Froggy\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\02 Looking for Froggy\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\03 Into the sewers\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\03 Into the sewers\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\03 Into the sewers\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\03 Into the sewers\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\03 Into the sewers\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\04 Tails has Froggy\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\04 Tails has Froggy\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\04 Tails has Froggy\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\04 Tails has Froggy\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\04 Tails has Froggy\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\05 After Emerald Coast\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\05 After Emerald Coast\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\05 After Emerald Coast\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\05 After Emerald Coast\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\05 After Emerald Coast\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\06 Before Hot Shelter\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\06 Before Hot Shelter\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\06 Before Hot Shelter\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\06 Before Hot Shelter\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\06 Before Hot Shelter\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\07 Found Froggy\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\07 Found Froggy\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\07 Found Froggy\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\07 Found Froggy\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\07 Found Froggy\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\08 After Hot Shelter\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\08 After Hot Shelter\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\08 After Hot Shelter\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\08 After Hot Shelter\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\08 After Hot Shelter\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\09 Tikal Flashback (1)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\09 Tikal Flashback (1)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\09 Tikal Flashback (1)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\09 Tikal Flashback (1)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\09 Tikal Flashback (1)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\10 Tikal Flashback (2)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\10 Tikal Flashback (2)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\10 Tikal Flashback (2)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\10 Tikal Flashback (2)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\10 Tikal Flashback (2)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\11 We better get going, buddy!\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\11 We better get going, buddy!\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\11 We better get going, buddy!\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\11 We better get going, buddy!\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\11 We better get going, buddy!\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\12 Resuming monorail operation\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\12 Resuming monorail operation\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\12 Resuming monorail operation\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\12 Resuming monorail operation\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\12 Resuming monorail operation\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\13 Before Chaos 6 Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\13 Before Chaos 6 Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\13 Before Chaos 6 Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\13 Before Chaos 6 Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\13 Before Chaos 6 Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\14 After Chaos 6 Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\14 After Chaos 6 Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\14 After Chaos 6 Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\14 After Chaos 6 Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\14 After Chaos 6 Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\15 Hey, maybe we could use this\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\15 Hey, maybe we could use this\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\15 Hey, maybe we could use this\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\15 Hey, maybe we could use this\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\15 Hey, maybe we could use this\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\16 It's the Power Rod\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\16 It's the Power Rod\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\16 It's the Power Rod\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\16 It's the Power Rod\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\16 It's the Power Rod\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\17 You've discovered the Life Belt\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\17 You've discovered the Life Belt\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\17 You've discovered the Life Belt\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\17 You've discovered the Life Belt\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Big\17 You've discovered the Life Belt\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\01 Intro\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\01 Intro\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\01 Intro\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\01 Intro\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\01 Intro\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\02 Before Final Egg\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\02 Before Final Egg\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\02 Before Final Egg\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\02 Before Final Egg\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\02 Before Final Egg\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\03 After Final Egg\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\03 After Final Egg\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\03 After Final Egg\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\03 After Final Egg\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\03 After Final Egg\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\04 Final Egg Failed (Unused)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\04 Final Egg Failed (Unused)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\04 Final Egg Failed (Unused)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\04 Final Egg Failed (Unused)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\04 Final Egg Failed (Unused)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\05 Before Beta Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\05 Before Beta Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\05 Before Beta Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\05 Before Beta Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\05 Before Beta Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\06 After Beta Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\06 After Beta Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\06 After Beta Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\06 After Beta Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\06 After Beta Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\07 Eggman's Very Special Announcement\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\07 Eggman's Very Special Announcement\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\07 Eggman's Very Special Announcement\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\07 Eggman's Very Special Announcement\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\07 Eggman's Very Special Announcement\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\08 After Emerald Coast\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\08 After Emerald Coast\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\08 After Emerald Coast\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\08 After Emerald Coast\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\08 After Emerald Coast\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\09 Tikal Flashback\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\09 Tikal Flashback\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\09 Tikal Flashback\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\09 Tikal Flashback\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\09 Tikal Flashback\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\10 Dummies, dummies, dummies, dummies!\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\10 Dummies, dummies, dummies, dummies!\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\10 Dummies, dummies, dummies, dummies!\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\10 Dummies, dummies, dummies, dummies!\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\10 Dummies, dummies, dummies, dummies!\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\11 Pick a door, any door\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\11 Pick a door, any door\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\11 Pick a door, any door\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\11 Pick a door, any door\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\11 Pick a door, any door\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\12 BETA\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\12 BETA\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\12 BETA\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\12 BETA\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\12 BETA\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\13 ...This is the wrong room\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\13 ...This is the wrong room\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\13 ...This is the wrong room\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\13 ...This is the wrong room\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\13 ...This is the wrong room\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\14 Does not compute\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\14 Does not compute\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\14 Does not compute\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\14 Does not compute\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\14 Does not compute\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\15 Get ready for battle instructions!\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\15 Get ready for battle instructions!\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\15 Get ready for battle instructions!\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\15 Get ready for battle instructions!\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\15 Get ready for battle instructions!\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\16 Here's the Jet Booster\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\16 Here's the Jet Booster\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\16 Here's the Jet Booster\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\16 Here's the Jet Booster\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\16 Here's the Jet Booster\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\17 I see you've got the Jet Booster\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\17 I see you've got the Jet Booster\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\17 I see you've got the Jet Booster\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\17 I see you've got the Jet Booster\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\17 I see you've got the Jet Booster\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\18 Before Sonic Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\18 Before Sonic Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\18 Before Sonic Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\18 Before Sonic Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\18 Before Sonic Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\19 After Sonic Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\19 After Sonic Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\19 After Sonic Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\19 After Sonic Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\19 After Sonic Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\20 A New Mission\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\20 A New Mission\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\20 A New Mission\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\20 A New Mission\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\20 A New Mission\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\21 Delta and Epsilon Rescued\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\21 Delta and Epsilon Rescued\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\21 Delta and Epsilon Rescued\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\21 Delta and Epsilon Rescued\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\21 Delta and Epsilon Rescued\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\22 Unlocking Hot Shelter sector, now\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\22 Unlocking Hot Shelter sector, now\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\22 Unlocking Hot Shelter sector, now\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\22 Unlocking Hot Shelter sector, now\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\22 Unlocking Hot Shelter sector, now\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\23 E-105 Zeta rescue complete\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\23 E-105 Zeta rescue complete\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\23 E-105 Zeta rescue complete\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\23 E-105 Zeta rescue complete\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\23 E-105 Zeta rescue complete\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\24 Here's your Laser Blaster\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\24 Here's your Laser Blaster\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\24 Here's your Laser Blaster\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\24 Here's your Laser Blaster\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Gamma\24 Here's your Laser Blaster\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\01 Intro\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\01 Intro\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\01 Intro\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\01 Intro\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\01 Intro\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\02 Before Speed Highway\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\02 Before Speed Highway\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\02 Before Speed Highway\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\02 Before Speed Highway\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\02 Before Speed Highway\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\03 After Speed Highway\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\03 After Speed Highway\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\03 After Speed Highway\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\03 After Speed Highway\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\03 After Speed Highway\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\04 Tikal 1\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\04 Tikal 1\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\04 Tikal 1\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\04 Tikal 1\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\04 Tikal 1\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\05 Before Casinopolis\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\05 Before Casinopolis\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\05 Before Casinopolis\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\05 Before Casinopolis\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\05 Before Casinopolis\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\06 Eggman!\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\06 Eggman!\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\06 Eggman!\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\06 Eggman!\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\06 Eggman!\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\07 Before Chaos 2 Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\07 Before Chaos 2 Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\07 Before Chaos 2 Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\07 Before Chaos 2 Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\07 Before Chaos 2 Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\08 After Chaos 2 Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\08 After Chaos 2 Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\08 After Chaos 2 Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\08 After Chaos 2 Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\08 After Chaos 2 Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\09 Mystic Ruins\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\09 Mystic Ruins\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\09 Mystic Ruins\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\09 Mystic Ruins\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\09 Mystic Ruins\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\10 Before Sonic Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\10 Before Sonic Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\10 Before Sonic Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\10 Before Sonic Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\10 Before Sonic Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\11 Before Chaos 4 Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\11 Before Chaos 4 Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\11 Before Chaos 4 Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\11 Before Chaos 4 Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\11 Before Chaos 4 Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\12 After Chaos 4 Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\12 After Chaos 4 Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\12 After Chaos 4 Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\12 After Chaos 4 Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\12 After Chaos 4 Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\13 You've got the Shovel Claw\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\13 You've got the Shovel Claw\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\13 You've got the Shovel Claw\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\13 You've got the Shovel Claw\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\13 You've got the Shovel Claw\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\14 Tikal 2 (1)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\14 Tikal 2 (1)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\14 Tikal 2 (1)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\14 Tikal 2 (1)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\14 Tikal 2 (1)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\15 Tikal 2 (2)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\15 Tikal 2 (2)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\15 Tikal 2 (2)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\15 Tikal 2 (2)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\15 Tikal 2 (2)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\16 Master Emerald almost restored\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\16 Master Emerald almost restored\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\16 Master Emerald almost restored\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\16 Master Emerald almost restored\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\16 Master Emerald almost restored\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\17 Final Egg entrance\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\17 Final Egg entrance\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\17 Final Egg entrance\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\17 Final Egg entrance\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\17 Final Egg entrance\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\18 On Egg Carrier\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\18 On Egg Carrier\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\18 On Egg Carrier\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\18 On Egg Carrier\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\18 On Egg Carrier\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\19 What's going on\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\19 What's going on\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\19 What's going on\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\19 What's going on\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\19 What's going on\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\20 This thing's always changing\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\20 This thing's always changing\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\20 This thing's always changing\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\20 This thing's always changing\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\20 This thing's always changing\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\21 Before Sky Deck\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\21 Before Sky Deck\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\21 Before Sky Deck\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\21 Before Sky Deck\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\21 Before Sky Deck\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\22 After Sky Deck\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\22 After Sky Deck\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\22 After Sky Deck\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\22 After Sky Deck\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\22 After Sky Deck\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\23 Tikal 3 (1)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\23 Tikal 3 (1)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\23 Tikal 3 (1)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\23 Tikal 3 (1)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\23 Tikal 3 (1)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\24 Tikal 3 (2)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\24 Tikal 3 (2)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\24 Tikal 3 (2)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\24 Tikal 3 (2)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\24 Tikal 3 (2)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\25 Back on Egg Carrier\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\25 Back on Egg Carrier\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\25 Back on Egg Carrier\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\25 Back on Egg Carrier\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\25 Back on Egg Carrier\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\26 Chaos 6 Transforms\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\26 Chaos 6 Transforms\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\26 Chaos 6 Transforms\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\26 Chaos 6 Transforms\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\26 Chaos 6 Transforms\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\27 Before Chaos 6 Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\27 Before Chaos 6 Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\27 Before Chaos 6 Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\27 Before Chaos 6 Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\27 Before Chaos 6 Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\28 After Chaos 6 Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\28 After Chaos 6 Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\28 After Chaos 6 Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\28 After Chaos 6 Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\28 After Chaos 6 Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\29 Master Emerald Restored\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\29 Master Emerald Restored\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\29 Master Emerald Restored\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\29 Master Emerald Restored\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\29 Master Emerald Restored\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\30 End\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\30 End\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\30 End\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\30 End\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\30 End\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\31 Now, you've got Fighting Gloves\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\31 Now, you've got Fighting Gloves\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\31 Now, you've got Fighting Gloves\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\31 Now, you've got Fighting Gloves\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Knuckles\31 Now, you've got Fighting Gloves\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\01 But I bet he can't foil my master plan\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\01 But I bet he can't foil my master plan\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\01 But I bet he can't foil my master plan\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\01 But I bet he can't foil my master plan\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\01 But I bet he can't foil my master plan\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\02 This doesn't make any sense\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\02 This doesn't make any sense\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\02 This doesn't make any sense\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\02 This doesn't make any sense\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\02 This doesn't make any sense\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\03 Who blew it this time\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\03 Who blew it this time\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\03 Who blew it this time\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\03 Who blew it this time\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\03 Who blew it this time\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\04 He's not gonna get away with this!\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\04 He's not gonna get away with this!\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\04 He's not gonna get away with this!\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\04 He's not gonna get away with this!\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\04 He's not gonna get away with this!\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\05 It's not a dream, after all\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\05 It's not a dream, after all\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\05 It's not a dream, after all\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\05 It's not a dream, after all\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\05 It's not a dream, after all\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\06 Please don't do this. I beg you!\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\06 Please don't do this. I beg you!\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\06 Please don't do this. I beg you!\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\06 Please don't do this. I beg you!\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\06 Please don't do this. I beg you!\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\07 Aaaaagh! It's a monster!\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\07 Aaaaagh! It's a monster!\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\07 Aaaaagh! It's a monster!\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\07 Aaaaagh! It's a monster!\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\07 Aaaaagh! It's a monster!\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\08 Hey, are you all right\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\08 Hey, are you all right\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\08 Hey, are you all right\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\08 Hey, are you all right\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\08 Hey, are you all right\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\09 Please, you must stop him!\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\09 Please, you must stop him!\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\09 Please, you must stop him!\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\09 Please, you must stop him!\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\09 Please, you must stop him!\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\10 Sonic! Wake up!\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\10 Sonic! Wake up!\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\10 Sonic! Wake up!\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\10 Sonic! Wake up!\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\10 Sonic! Wake up!\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\11 Now what do we do\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\11 Now what do we do\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\11 Now what do we do\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\11 Now what do we do\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\11 Now what do we do\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\12 If I wasn't just dreaming, that monster is a real menace!\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\12 If I wasn't just dreaming, that monster is a real menace!\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\12 If I wasn't just dreaming, that monster is a real menace!\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\12 If I wasn't just dreaming, that monster is a real menace!\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\12 If I wasn't just dreaming, that monster is a real menace!\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\13 Here, take this!\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\13 Here, take this!\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\13 Here, take this!\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\13 Here, take this!\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\13 Here, take this!\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\14 All's well that ends well, right\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\14 All's well that ends well, right\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\14 All's well that ends well, right\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\14 All's well that ends well, right\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Last\14 All's well that ends well, right\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\01 Intro\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\01 Intro\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\01 Intro\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\01 Intro\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\01 Intro\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\02 Before Chaos 0 Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\02 Before Chaos 0 Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\02 Before Chaos 0 Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\02 Before Chaos 0 Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\02 Before Chaos 0 Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\03 After Chaos 0 Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\03 After Chaos 0 Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\03 After Chaos 0 Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\03 After Chaos 0 Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\03 After Chaos 0 Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\04 Before Emerald Coast\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\04 Before Emerald Coast\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\04 Before Emerald Coast\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\04 Before Emerald Coast\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\04 Before Emerald Coast\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\05 After Emerald Coast\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\05 After Emerald Coast\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\05 After Emerald Coast\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\05 After Emerald Coast\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\05 After Emerald Coast\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\06 Before Egg Hornet Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\06 Before Egg Hornet Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\06 Before Egg Hornet Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\06 Before Egg Hornet Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\06 Before Egg Hornet Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\07 After Egg Hornet Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\07 After Egg Hornet Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\07 After Egg Hornet Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\07 After Egg Hornet Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\07 After Egg Hornet Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\08 Now you've got Light Speed Shoes\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\08 Now you've got Light Speed Shoes\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\08 Now you've got Light Speed Shoes\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\08 Now you've got Light Speed Shoes\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\08 Now you've got Light Speed Shoes\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\09 After Casinopolis (1)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\09 After Casinopolis (1)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\09 After Casinopolis (1)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\09 After Casinopolis (1)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\09 After Casinopolis (1)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\10 After Casinopolis (2)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\10 After Casinopolis (2)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\10 After Casinopolis (2)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\10 After Casinopolis (2)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\10 After Casinopolis (2)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\11 Before Knuckles Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\11 Before Knuckles Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\11 Before Knuckles Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\11 Before Knuckles Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\11 Before Knuckles Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\12 Before Chaos 4 Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\12 Before Chaos 4 Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\12 Before Chaos 4 Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\12 Before Chaos 4 Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\12 Before Chaos 4 Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\13 After Chaos 4 Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\13 After Chaos 4 Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\13 After Chaos 4 Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\13 After Chaos 4 Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\13 After Chaos 4 Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\14 Before Sky Chase Act 1\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\14 Before Sky Chase Act 1\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\14 Before Sky Chase Act 1\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\14 Before Sky Chase Act 1\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\14 Before Sky Chase Act 1\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\15 After Sky Chase Act 1\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\15 After Sky Chase Act 1\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\15 After Sky Chase Act 1\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\15 After Sky Chase Act 1\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\15 After Sky Chase Act 1\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\16 Meeting Amy\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\16 Meeting Amy\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\16 Meeting Amy\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\16 Meeting Amy\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\16 Meeting Amy\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\17 Before Twinkle Park\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\17 Before Twinkle Park\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\17 Before Twinkle Park\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\17 Before Twinkle Park\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\17 Before Twinkle Park\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\18 After Twinkle Park\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\18 After Twinkle Park\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\18 After Twinkle Park\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\18 After Twinkle Park\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\18 After Twinkle Park\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\19 Amy Kidnapped\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\19 Amy Kidnapped\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\19 Amy Kidnapped\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\19 Amy Kidnapped\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\19 Amy Kidnapped\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\20 Before Red Mountain\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\20 Before Red Mountain\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\20 Before Red Mountain\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\20 Before Red Mountain\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\20 Before Red Mountain\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\21 This is the Ancient Light\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\21 This is the Ancient Light\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\21 This is the Ancient Light\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\21 This is the Ancient Light\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\21 This is the Ancient Light\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\22 After Red Mountain\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\22 After Red Mountain\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\22 After Red Mountain\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\22 After Red Mountain\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\22 After Red Mountain\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\23 After Sky Chase Act 2\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\23 After Sky Chase Act 2\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\23 After Sky Chase Act 2\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\23 After Sky Chase Act 2\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\23 After Sky Chase Act 2\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\24 On Egg Carrier\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\24 On Egg Carrier\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\24 On Egg Carrier\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\24 On Egg Carrier\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\24 On Egg Carrier\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\25 Eggman Transforms the Egg Carrier\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\25 Eggman Transforms the Egg Carrier\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\25 Eggman Transforms the Egg Carrier\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\25 Eggman Transforms the Egg Carrier\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\25 Eggman Transforms the Egg Carrier\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\26 After Transform\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\26 After Transform\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\26 After Transform\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\26 After Transform\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\26 After Transform\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\27 Sky Deck Entrance\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\27 Sky Deck Entrance\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\27 Sky Deck Entrance\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\27 Sky Deck Entrance\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\27 Sky Deck Entrance\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\28 After Sky Deck\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\28 After Sky Deck\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\28 After Sky Deck\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\28 After Sky Deck\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\28 After Sky Deck\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\29 Before Gamma Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\29 Before Gamma Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\29 Before Gamma Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\29 Before Gamma Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\29 Before Gamma Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\30 After Gamma Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\30 After Gamma Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\30 After Gamma Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\30 After Gamma Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\30 After Gamma Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\31 Find the switch\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\31 Find the switch\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\31 Find the switch\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\31 Find the switch\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\31 Find the switch\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\32 Monorails are online\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\32 Monorails are online\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\32 Monorails are online\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\32 Monorails are online\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\32 Monorails are online\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\33 Before Chaos 6 Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\33 Before Chaos 6 Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\33 Before Chaos 6 Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\33 Before Chaos 6 Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\33 Before Chaos 6 Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\34 After Chaos 6 Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\34 After Chaos 6 Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\34 After Chaos 6 Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\34 After Chaos 6 Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\34 After Chaos 6 Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\35 Before Lost World\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\35 Before Lost World\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\35 Before Lost World\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\35 Before Lost World\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\35 Before Lost World\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\36 After Lost World\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\36 After Lost World\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\36 After Lost World\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\36 After Lost World\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\36 After Lost World\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\37 Tikal Flasback (1)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\37 Tikal Flasback (1)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\37 Tikal Flasback (1)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\37 Tikal Flasback (1)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\37 Tikal Flasback (1)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\38 Tikal Flasback (2)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\38 Tikal Flasback (2)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\38 Tikal Flasback (2)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\38 Tikal Flasback (2)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\38 Tikal Flasback (2)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\39 Before Final Egg\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\39 Before Final Egg\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\39 Before Final Egg\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\39 Before Final Egg\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\39 Before Final Egg\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\40 Before Egg Viper Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\40 Before Egg Viper Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\40 Before Egg Viper Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\40 Before Egg Viper Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\40 Before Egg Viper Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\41 This is the Crystal Ring\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\41 This is the Crystal Ring\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\41 This is the Crystal Ring\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\41 This is the Crystal Ring\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Sonic\41 This is the Crystal Ring\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\01 Intro\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\01 Intro\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\01 Intro\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\01 Intro\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\01 Intro\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\02 After Emerald Coast\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\02 After Emerald Coast\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\02 After Emerald Coast\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\02 After Emerald Coast\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\02 After Emerald Coast\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\03 Before Egg Hornet Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\03 Before Egg Hornet Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\03 Before Egg Hornet Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\03 Before Egg Hornet Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\03 Before Egg Hornet Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\04 After Egg Hornet Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\04 After Egg Hornet Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\04 After Egg Hornet Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\04 After Egg Hornet Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\04 After Egg Hornet Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\05 After Casinopolis (1)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\05 After Casinopolis (1)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\05 After Casinopolis (1)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\05 After Casinopolis (1)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\05 After Casinopolis (1)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\06 After Casinopolis (2)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\06 After Casinopolis (2)\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\06 After Casinopolis (2)\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\06 After Casinopolis (2)\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\06 After Casinopolis (2)\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\07 Before Knuckles Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\07 Before Knuckles Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\07 Before Knuckles Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\07 Before Knuckles Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\07 Before Knuckles Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\08 Before Chaos 4 Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\08 Before Chaos 4 Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\08 Before Chaos 4 Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\08 Before Chaos 4 Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\08 Before Chaos 4 Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\09 After Chaos 4 Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\09 After Chaos 4 Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\09 After Chaos 4 Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\09 After Chaos 4 Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\09 After Chaos 4 Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\10 Before Sky Chase Act 1\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\10 Before Sky Chase Act 1\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\10 Before Sky Chase Act 1\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\10 Before Sky Chase Act 1\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\10 Before Sky Chase Act 1\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\11 After Sky Chase Act 1\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\11 After Sky Chase Act 1\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\11 After Sky Chase Act 1\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\11 After Sky Chase Act 1\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\11 After Sky Chase Act 1\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\12 Before Sand Hill\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\12 Before Sand Hill\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\12 Before Sand Hill\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\12 Before Sand Hill\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\12 Before Sand Hill\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\13 After Sand Hill\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\13 After Sand Hill\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\13 After Sand Hill\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\13 After Sand Hill\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\13 After Sand Hill\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\14 You've found the Rhythm Badge\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\14 You've found the Rhythm Badge\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\14 You've found the Rhythm Badge\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\14 You've found the Rhythm Badge\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\14 You've found the Rhythm Badge\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\15 Tikal Flashback\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\15 Tikal Flashback\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\15 Tikal Flashback\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\15 Tikal Flashback\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\15 Tikal Flashback\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\16 Big and Froggy\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\16 Big and Froggy\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\16 Big and Froggy\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\16 Big and Froggy\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\16 Big and Froggy\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\17 Before Sky Chase Act 2\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\17 Before Sky Chase Act 2\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\17 Before Sky Chase Act 2\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\17 Before Sky Chase Act 2\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\17 Before Sky Chase Act 2\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\18 Red Mountain\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\18 Red Mountain\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\18 Red Mountain\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\18 Red Mountain\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\18 Red Mountain\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\19 After Sky Chase Act 2\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\19 After Sky Chase Act 2\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\19 After Sky Chase Act 2\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\19 After Sky Chase Act 2\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\19 After Sky Chase Act 2\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\20 On Egg Carrier\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\20 On Egg Carrier\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\20 On Egg Carrier\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\20 On Egg Carrier\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\20 On Egg Carrier\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\21 Eggman Transforms the Egg Carrier\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\21 Eggman Transforms the Egg Carrier\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\21 Eggman Transforms the Egg Carrier\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\21 Eggman Transforms the Egg Carrier\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\21 Eggman Transforms the Egg Carrier\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\22 After Transform\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\22 After Transform\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\22 After Transform\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\22 After Transform\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\22 After Transform\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\23 Sky Deck Entrance\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\23 Sky Deck Entrance\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\23 Sky Deck Entrance\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\23 Sky Deck Entrance\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\23 Sky Deck Entrance\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\24 After Sky Deck\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\24 After Sky Deck\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\24 After Sky Deck\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\24 After Sky Deck\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\24 After Sky Deck\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\25 Before Gamma Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\25 Before Gamma Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\25 Before Gamma Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\25 Before Gamma Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\25 Before Gamma Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\26 After Gamma Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\26 After Gamma Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\26 After Gamma Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\26 After Gamma Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\26 After Gamma Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\27 Eggman's Missile Attack\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\27 Eggman's Missile Attack\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\27 Eggman's Missile Attack\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\27 Eggman's Missile Attack\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\27 Eggman's Missile Attack\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\28 Before Speed Highway\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\28 Before Speed Highway\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\28 Before Speed Highway\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\28 Before Speed Highway\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\28 Before Speed Highway\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\29 Before Egg Walker Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\29 Before Egg Walker Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\29 Before Egg Walker Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\29 Before Egg Walker Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\29 Before Egg Walker Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\30 After Egg Walker Fight\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\30 After Egg Walker Fight\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\30 After Egg Walker Fight\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\30 After Egg Walker Fight\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\30 After Egg Walker Fight\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\31 Look, it's your Jet Anklet!\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\31 Look, it's your Jet Anklet!\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\31 Look, it's your Jet Anklet!\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\31 Look, it's your Jet Anklet!\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Cutscene Text\Tails\31 Look, it's your Jet Anklet!\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Level Flags\Amy.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Level Flags\Big.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Level Flags\Gamma.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Level Flags\Knuckles.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Level Flags\Sonic.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Level Flags\Tails.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Chao Garden Help Monitor\Back\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Chao Garden Help Monitor\Next\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Chao Garden Help Monitor\Quit\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\ESC to Go Back\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\ESC to Go Back\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\ESC to Go Back\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\ESC to Go Back\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\ESC to Go Back\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\Press the Button to be Recorded\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\Press the Button to be Recorded\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\Press the Button to be Recorded\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\Press the Button to be Recorded\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\Press the Button to be Recorded\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\Record on This Button\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\Record on This Button\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\Record on This Button\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\Record on This Button\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\Record on This Button\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\Restore Default Buttons\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\Restore Default Buttons\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\Restore Default Buttons\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\Restore Default Buttons\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Controller\Restore Default Buttons\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Accept\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Accept\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Accept\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Accept\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Accept\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Cancel\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Cancel\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Cancel\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Cancel\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Cancel\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Continue Without Saving 1\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Continue Without Saving 1\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Continue Without Saving 1\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Continue Without Saving 1\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Continue Without Saving 1\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Continue Without Saving 2\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Continue Without Saving 2\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Continue Without Saving 2\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Continue Without Saving 2\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Continue Without Saving 2\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Continue Without Saving 3\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Continue Without Saving 3\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Continue Without Saving 3\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Continue Without Saving 3\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Continue Without Saving 3\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Create New File\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Delete\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Delete\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Delete\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Delete\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Delete\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Delete 2\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Delete 2\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Delete 2\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Delete 2\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Delete 2\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Deleted\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Deleted\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Deleted\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Deleted\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Deleted\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Format Memory Card\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Format Memory Card\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Format Memory Card\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Format Memory Card\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Format Memory Card\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 1\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 1\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 1\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 1\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 1\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 2\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 2\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 2\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 2\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 2\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 3\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 3\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 3\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 3\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 3\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 4\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 4\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 4\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 4\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\File\Retry 4\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Quit to Adventure Field\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Quit to Adventure Field\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Quit to Adventure Field\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Quit to Adventure Field\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Quit to Adventure Field\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Quit to Character Select\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Quit to Character Select\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Quit to Character Select\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Quit to Character Select\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Quit to Character Select\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Quit to Main Menu\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Quit to Main Menu\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Quit to Main Menu\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Quit to Main Menu\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Menu Prompts\Quit to Main Menu\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Game Gear\Added to the List\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Game Gear\Added to the List\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Game Gear\Added to the List\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Game Gear\Added to the List\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Game Gear\Added to the List\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Game Gear\Game List\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Game Gear\Game List\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Game Over\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer\Amy\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer\Congratulations\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer\Count\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer\Doctor Robotnik\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer\Game Over\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer\High Score\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer\Points Count 1\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer\Points Count 2\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer\Points Count 3\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer\Points Count 4\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer\Start\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer\Time\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer\You Get the High Score\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer\You Get the Long Hammer\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer\You Get the Warrior Feather\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer (Minigame)\Amy\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer (Minigame)\Congratulations\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer (Minigame)\Count\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer (Minigame)\Doctor Robotnik\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer (Minigame)\Game Over\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer (Minigame)\High Score\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer (Minigame)\Points Count 1\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer (Minigame)\Points Count 2\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer (Minigame)\Points Count 3\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer (Minigame)\Points Count 4\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer (Minigame)\Start\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer (Minigame)\Time\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer (Minigame)\You Get the High Score\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer (Minigame)\You Get the Long Hammer (Minigame)\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Hedgehog Hammer (Minigame)\You Get the Warrior Feather\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Cart Pass\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Cart Pass\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Cart Pass\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Cart Pass\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Cart Pass\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Employee Card\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Employee Card\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Employee Card\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Employee Card\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Employee Card\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Employee Card ID Check\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Employee Card ID Check\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Employee Card ID Check\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Employee Card ID Check\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Employee Card ID Check\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Gold Statue It Looks Like a Key\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Gold Statue It Looks Like a Key\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Gold Statue It Looks Like a Key\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Gold Statue It Looks Like a Key\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Gold Statue It Looks Like a Key\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Ice Stone It Looks Like a Key\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Ice Stone It Looks Like a Key\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Ice Stone It Looks Like a Key\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Ice Stone It Looks Like a Key\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Ice Stone It Looks Like a Key\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Ice Stone It Looks Like a Key 2\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Ice Stone It Looks Like a Key 2\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Ice Stone It Looks Like a Key 2\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Ice Stone It Looks Like a Key 2\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Ice Stone It Looks Like a Key 2\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\It says Monkey Destruction Switch\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\It says Monkey Destruction Switch\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\It says Monkey Destruction Switch\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\It says Monkey Destruction Switch\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\It says Monkey Destruction Switch\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Lure Powerup\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Lure Powerup\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Lure Powerup\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Lure Powerup\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Lure Powerup\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Silver Statue It Looks Like a Key\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Silver Statue It Looks Like a Key\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Silver Statue It Looks Like a Key\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Silver Statue It Looks Like a Key\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Silver Statue It Looks Like a Key\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Switch On!\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Switch On!\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Switch On!\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Switch On!\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Switch On!\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Switch Pressed But Nothing Happened\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Switch Pressed But Nothing Happened\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Switch Pressed But Nothing Happened\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Switch Pressed But Nothing Happened\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Switch Pressed But Nothing Happened\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Switch Pressed But Nothing Happened 2\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Switch Pressed But Nothing Happened 2\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Switch Pressed But Nothing Happened 2\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Switch Pressed But Nothing Happened 2\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Switch Pressed But Nothing Happened 2\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\The Key is Floating\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\The Key is Floating\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\The Key is Floating\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\The Key is Floating\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\The Key is Floating\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\This Must Be a Different Key\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\This Must Be a Different Key\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\This Must Be a Different Key\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\This Must Be a Different Key\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\This Must Be a Different Key\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Welcome to Twinkle Circuit\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Welcome to Twinkle Circuit\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Welcome to Twinkle Circuit\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Welcome to Twinkle Circuit\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Welcome to Twinkle Circuit\Spanish.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Wind Stone It Looks Like a Key\English.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Wind Stone It Looks Like a Key\French.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Wind Stone It Looks Like a Key\German.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Wind Stone It Looks Like a Key\Japanese.txt
+C:\Users\User\Repo\SATraditional\Projects\SATranslation\SATranslation\Misc\Messages\Objects\Wind Stone It Looks Like a Key\Spanish.txt

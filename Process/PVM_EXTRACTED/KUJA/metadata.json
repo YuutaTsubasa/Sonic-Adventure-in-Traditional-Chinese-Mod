@@ -1,0 +1,82 @@
+{
+  "pvm_name": "KUJA.PVM",
+  "source_path": "Process/PVMs/KUJA.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "kuja_karada",
+      "safe_name": "kuja_karada",
+      "pvr_file": "000_kuja_karada.pvr",
+      "png_file": "000_kuja_karada.png",
+      "png_generated": true,
+      "gbix": 1000210,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 1,
+      "name": "kuja_kazahane",
+      "safe_name": "kuja_kazahane",
+      "pvr_file": "001_kuja_kazahane.pvr",
+      "png_file": "001_kuja_kazahane.png",
+      "png_generated": true,
+      "gbix": 1000211,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 2,
+      "name": "kuja_parts",
+      "safe_name": "kuja_parts",
+      "pvr_file": "002_kuja_parts.pvr",
+      "png_file": "002_kuja_parts.png",
+      "png_generated": true,
+      "gbix": 1000212,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 3,
+      "name": "kuja_hane",
+      "safe_name": "kuja_hane",
+      "pvr_file": "003_kuja_hane.pvr",
+      "png_file": "003_kuja_hane.png",
+      "png_generated": true,
+      "gbix": 1000267,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 4,
+      "name": "kuja_kao",
+      "safe_name": "kuja_kao",
+      "pvr_file": "004_kuja_kao.pvr",
+      "png_file": "004_kuja_kao.png",
+      "png_generated": true,
+      "gbix": 1000268,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    }
+  ]
+}

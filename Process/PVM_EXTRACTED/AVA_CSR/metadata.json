@@ -1,0 +1,37 @@
+{
+  "pvm_name": "AVA_CSR.PVM",
+  "source_path": "Process/PVMs/AVA_CSR.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "sphe_10",
+      "safe_name": "sphe_10",
+      "pvr_file": "000_sphe_10.pvr",
+      "png_file": "000_sphe_10.png",
+      "png_generated": true,
+      "gbix": 365168,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 1,
+      "name": "sphe_6",
+      "safe_name": "sphe_6",
+      "pvr_file": "001_sphe_6.pvr",
+      "png_file": "001_sphe_6.png",
+      "png_generated": true,
+      "gbix": 365086,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 10936
+    }
+  ]
+}

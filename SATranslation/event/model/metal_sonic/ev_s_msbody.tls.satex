@@ -1,0 +1,14 @@
+Name=texlist_02ED3F2C
+TexnameArrayName=textures_02ED3EA8
+NumTextures=11
+TextureNames[0]=stg_s_bkfire
+TextureNames[1]=stg_s_bkfireb
+TextureNames[2]=mrd_032s_msana
+TextureNames[3]=mrd_032s_msbis
+TextureNames[4]=mrd_032s_mseye
+TextureNames[5]=mrd_064s_msblack
+TextureNames[6]=mrd_064s_msblue
+TextureNames[7]=mrd_064s_msred
+TextureNames[8]=mrd_064s_msslv
+TextureNames[9]=mrd_064s_mswhite
+TextureNames[10]=mrd_064s_msyelw

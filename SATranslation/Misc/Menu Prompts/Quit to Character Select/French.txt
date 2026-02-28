@@ -1,0 +1,1 @@
+Cela terminera la partie et renverra le\npersonnage à l'écran de sélection, O.K. ?

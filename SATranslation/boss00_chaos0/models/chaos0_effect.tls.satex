@@ -1,0 +1,5 @@
+Name=texlist_0003AD20
+TexnameArrayName=textures_0003AD08
+NumTextures=2
+TextureNames[0]=panlight
+TextureNames[1]=spotlight0

@@ -1,0 +1,67 @@
+{
+  "pvm_name": "TUTOBG_SONIC.PVM",
+  "source_path": "Process/PVMs/TUTOBG_SONIC.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "s_adv0_0",
+      "safe_name": "s_adv0_0",
+      "pvr_file": "000_s_adv0_0.pvr",
+      "png_file": "000_s_adv0_0.png",
+      "png_generated": true,
+      "gbix": 365632,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 256,
+      "height": 256,
+      "pvrt_size_field": 131096
+    },
+    {
+      "index": 1,
+      "name": "s_adv0_1",
+      "safe_name": "s_adv0_1",
+      "pvr_file": "001_s_adv0_1.pvr",
+      "png_file": "001_s_adv0_1.png",
+      "png_generated": true,
+      "gbix": 365633,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 256,
+      "height": 256,
+      "pvrt_size_field": 131096
+    },
+    {
+      "index": 2,
+      "name": "s_adv1_0",
+      "safe_name": "s_adv1_0",
+      "pvr_file": "002_s_adv1_0.pvr",
+      "png_file": "002_s_adv1_0.png",
+      "png_generated": true,
+      "gbix": 365634,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 256,
+      "height": 256,
+      "pvrt_size_field": 131096
+    },
+    {
+      "index": 3,
+      "name": "s_adv1_1",
+      "safe_name": "s_adv1_1",
+      "pvr_file": "003_s_adv1_1.pvr",
+      "png_file": "003_s_adv1_1.png",
+      "png_generated": true,
+      "gbix": 365635,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 256,
+      "height": 256,
+      "pvrt_size_field": 131096
+    }
+  ]
+}

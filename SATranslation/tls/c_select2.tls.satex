@@ -1,0 +1,15 @@
+Name=texlist_00513D28
+TexnameArrayName=textures_00513C98
+NumTextures=12
+TextureNames[0]=tgs_chrsel_e0
+TextureNames[1]=tgs_chrsel_e1
+TextureNames[2]=tgs_chrsel_e2
+TextureNames[3]=tgs_chrsel_e3
+TextureNames[4]=tgs_chrsel_a0
+TextureNames[5]=tgs_chrsel_a1
+TextureNames[6]=tgs_chrsel_a2
+TextureNames[7]=tgs_chrsel_a3
+TextureNames[8]=tgs_chrsel_b0
+TextureNames[9]=tgs_chrsel_b1
+TextureNames[10]=tgs_chrsel_b2
+TextureNames[11]=tgs_chrsel_b3

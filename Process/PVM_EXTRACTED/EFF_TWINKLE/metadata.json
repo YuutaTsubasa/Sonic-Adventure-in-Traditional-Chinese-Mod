@@ -1,0 +1,52 @@
+{
+  "pvm_name": "EFF_TWINKLE.PVM",
+  "source_path": "Process/PVMs/EFF_TWINKLE.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "tp_kira01",
+      "safe_name": "tp_kira01",
+      "pvr_file": "000_tp_kira01.pvr",
+      "png_file": "000_tp_kira01.png",
+      "png_generated": true,
+      "gbix": 34500,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 32,
+      "height": 32,
+      "pvrt_size_field": 2744
+    },
+    {
+      "index": 1,
+      "name": "tp_kira02",
+      "safe_name": "tp_kira02",
+      "pvr_file": "001_tp_kira02.pvr",
+      "png_file": "001_tp_kira02.png",
+      "png_generated": true,
+      "gbix": 34501,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 32,
+      "height": 32,
+      "pvrt_size_field": 2744
+    },
+    {
+      "index": 2,
+      "name": "tp_kira03",
+      "safe_name": "tp_kira03",
+      "pvr_file": "002_tp_kira03.pvr",
+      "png_file": "002_tp_kira03.png",
+      "png_generated": true,
+      "gbix": 34502,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 32,
+      "height": 32,
+      "pvrt_size_field": 2744
+    }
+  ]
+}

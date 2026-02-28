@@ -1,0 +1,67 @@
+{
+  "pvm_name": "SCORE_MOLE.PVM",
+  "source_path": "Process/PVMs/SCORE_MOLE.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "minigame_1",
+      "safe_name": "minigame_1",
+      "pvr_file": "000_minigame_1.pvr",
+      "png_file": "000_minigame_1.png",
+      "png_generated": true,
+      "gbix": 365650,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 128,
+      "height": 32,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 1,
+      "name": "minigame_2",
+      "safe_name": "minigame_2",
+      "pvr_file": "001_minigame_2.pvr",
+      "png_file": "001_minigame_2.png",
+      "png_generated": true,
+      "gbix": 365651,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 256,
+      "height": 32,
+      "pvrt_size_field": 16408
+    },
+    {
+      "index": 2,
+      "name": "minigame_3",
+      "safe_name": "minigame_3",
+      "pvr_file": "002_minigame_3.pvr",
+      "png_file": "002_minigame_3.png",
+      "png_generated": true,
+      "gbix": 365652,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 128,
+      "height": 32,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 3,
+      "name": "action_5",
+      "safe_name": "action_5",
+      "pvr_file": "003_action_5.pvr",
+      "png_file": "003_action_5.png",
+      "png_generated": true,
+      "gbix": 365641,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 256,
+      "height": 32,
+      "pvrt_size_field": 16408
+    }
+  ]
+}

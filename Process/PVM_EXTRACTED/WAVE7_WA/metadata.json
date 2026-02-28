@@ -1,0 +1,22 @@
+{
+  "pvm_name": "WAVE7_WA.PVM",
+  "source_path": "Process/PVMs/WAVE7_WA.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "w_wave",
+      "safe_name": "w_wave",
+      "pvr_file": "000_w_wave.pvr",
+      "png_file": "000_w_wave.png",
+      "png_generated": true,
+      "gbix": 600836,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 16,
+      "height": 16,
+      "pvrt_size_field": 696
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "pvm_name": "EGM1MIS.PVM",
+  "source_path": "Process/PVMs/EGM1MIS.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "reon_tt01",
+      "safe_name": "reon_tt01",
+      "pvr_file": "000_reon_tt01.pvr",
+      "png_file": "000_reon_tt01.png",
+      "png_generated": true,
+      "gbix": 420006,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 10936
+    },
+    {
+      "index": 1,
+      "name": "eg_neji",
+      "safe_name": "eg_neji",
+      "pvr_file": "001_eg_neji.pvr",
+      "png_file": "001_eg_neji.png",
+      "png_generated": true,
+      "gbix": 420026,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 32,
+      "height": 32,
+      "pvrt_size_field": 2744
+    },
+    {
+      "index": 2,
+      "name": "egm_m1",
+      "safe_name": "egm_m1",
+      "pvr_file": "002_egm_m1.pvr",
+      "png_file": "002_egm_m1.png",
+      "png_generated": true,
+      "gbix": 420027,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 32,
+      "height": 32,
+      "pvrt_size_field": 2744
+    },
+    {
+      "index": 3,
+      "name": "egm_r01",
+      "safe_name": "egm_r01",
+      "pvr_file": "003_egm_r01.pvr",
+      "png_file": "003_egm_r01.png",
+      "png_generated": true,
+      "gbix": 420056,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 10936
+    }
+  ]
+}

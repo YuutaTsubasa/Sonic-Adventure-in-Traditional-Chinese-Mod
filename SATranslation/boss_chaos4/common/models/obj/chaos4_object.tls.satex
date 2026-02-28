@@ -1,0 +1,11 @@
+Name=texlist_00D8FB38
+TexnameArrayName=textures_00D8FAD8
+NumTextures=8
+TextureNames[0]=c4_128s_kankyo
+TextureNames[1]=mra_008s_hirusorab
+TextureNames[2]=mra_032s_hirusorac
+TextureNames[3]=mra_256s_hirusoraa
+TextureNames[4]=mrc4_032s_kuki
+TextureNames[5]=mrc4_256s_hapa
+TextureNames[6]=mra_256_water
+TextureNames[7]=s_los_wt00

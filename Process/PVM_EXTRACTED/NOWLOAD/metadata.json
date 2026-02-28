@@ -1,0 +1,22 @@
+{
+  "pvm_name": "NOWLOAD.PVM",
+  "source_path": "Process/PVMs/NOWLOAD.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "nowload",
+      "safe_name": "nowload",
+      "pvr_file": "000_nowload.pvr",
+      "png_file": "000_nowload.png",
+      "png_generated": true,
+      "gbix": 710283,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 128,
+      "height": 16,
+      "pvrt_size_field": 4120
+    }
+  ]
+}

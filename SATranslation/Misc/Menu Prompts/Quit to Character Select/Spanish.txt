@@ -1,0 +1,1 @@
+Se terminará la partida y volverá a la\npantalla de selección de personaje. ¿OK?

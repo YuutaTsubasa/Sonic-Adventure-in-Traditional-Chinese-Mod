@@ -1,0 +1,37 @@
+{
+  "pvm_name": "EGM2_SKY.PVM",
+  "source_path": "Process/PVMs/EGM2_SKY.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "obj_sssky_n",
+      "safe_name": "obj_sssky_n",
+      "pvr_file": "000_obj_sssky_n.pvr",
+      "png_file": "000_obj_sssky_n.png",
+      "png_generated": true,
+      "gbix": 406084,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 699064
+    },
+    {
+      "index": 1,
+      "name": "obj_ssskyb_n",
+      "safe_name": "obj_ssskyb_n",
+      "pvr_file": "001_obj_ssskyb_n.pvr",
+      "png_file": "001_obj_ssskyb_n.png",
+      "png_generated": true,
+      "gbix": 406085,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 128,
+      "height": 128,
+      "pvrt_size_field": 43704
+    }
+  ]
+}

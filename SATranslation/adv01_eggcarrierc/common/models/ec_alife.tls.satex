@@ -1,0 +1,13 @@
+Name=texlist_00134FD8
+TexnameArrayName=textures_00134F60
+NumTextures=10
+TextureNames[0]=cg_begg
+TextureNames[1]=al_wseff
+TextureNames[2]=al_ws04
+TextureNames[3]=al_ws05
+TextureNames[4]=al_ws06
+TextureNames[5]=al_ws07
+TextureNames[6]=al_ws08
+TextureNames[7]=al_ws09
+TextureNames[8]=al_wsm01
+TextureNames[9]=al_wsm02

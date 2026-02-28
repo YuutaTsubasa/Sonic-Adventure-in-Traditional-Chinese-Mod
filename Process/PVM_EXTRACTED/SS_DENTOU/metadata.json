@@ -1,0 +1,52 @@
+{
+  "pvm_name": "SS_DENTOU.PVM",
+  "source_path": "Process/PVMs/SS_DENTOU.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "dentoukasa",
+      "safe_name": "dentoukasa",
+      "pvr_file": "000_dentoukasa.pvr",
+      "png_file": "000_dentoukasa.png",
+      "png_generated": false,
+      "gbix": 204552,
+      "has_gbix": 1,
+      "pixel_format": 1,
+      "data_format": 9,
+      "width": 16,
+      "height": 16,
+      "pvrt_size_field": 696
+    },
+    {
+      "index": 1,
+      "name": "dentou_d",
+      "safe_name": "dentou_d",
+      "pvr_file": "001_dentou_d.pvr",
+      "png_file": "001_dentou_d.png",
+      "png_generated": true,
+      "gbix": 204551,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 32,
+      "height": 32,
+      "pvrt_size_field": 2744
+    },
+    {
+      "index": 2,
+      "name": "dentou_n",
+      "safe_name": "dentou_n",
+      "pvr_file": "002_dentou_n.pvr",
+      "png_file": "002_dentou_n.png",
+      "png_generated": true,
+      "gbix": 204550,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 32,
+      "height": 32,
+      "pvrt_size_field": 2744
+    }
+  ]
+}

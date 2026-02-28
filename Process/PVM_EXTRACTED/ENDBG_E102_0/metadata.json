@@ -1,0 +1,82 @@
+{
+  "pvm_name": "ENDBG_E102_0.PVM",
+  "source_path": "Process/PVMs/ENDBG_E102_0.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "e_01",
+      "safe_name": "e_01",
+      "pvr_file": "000_e_01.pvr",
+      "png_file": "000_e_01.png",
+      "png_generated": false,
+      "gbix": 366101,
+      "has_gbix": 1,
+      "pixel_format": 1,
+      "data_format": 1,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 524296
+    },
+    {
+      "index": 1,
+      "name": "e_02",
+      "safe_name": "e_02",
+      "pvr_file": "001_e_02.pvr",
+      "png_file": "001_e_02.png",
+      "png_generated": false,
+      "gbix": 366102,
+      "has_gbix": 1,
+      "pixel_format": 1,
+      "data_format": 1,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 524296
+    },
+    {
+      "index": 2,
+      "name": "e_03",
+      "safe_name": "e_03",
+      "pvr_file": "002_e_03.pvr",
+      "png_file": "002_e_03.png",
+      "png_generated": false,
+      "gbix": 366103,
+      "has_gbix": 1,
+      "pixel_format": 1,
+      "data_format": 1,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 524296
+    },
+    {
+      "index": 3,
+      "name": "e_04",
+      "safe_name": "e_04",
+      "pvr_file": "003_e_04.pvr",
+      "png_file": "003_e_04.png",
+      "png_generated": false,
+      "gbix": 366104,
+      "has_gbix": 1,
+      "pixel_format": 1,
+      "data_format": 1,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 524296
+    },
+    {
+      "index": 4,
+      "name": "e_05",
+      "safe_name": "e_05",
+      "pvr_file": "004_e_05.pvr",
+      "png_file": "004_e_05.png",
+      "png_generated": false,
+      "gbix": 366105,
+      "has_gbix": 1,
+      "pixel_format": 1,
+      "data_format": 1,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 524296
+    }
+  ]
+}

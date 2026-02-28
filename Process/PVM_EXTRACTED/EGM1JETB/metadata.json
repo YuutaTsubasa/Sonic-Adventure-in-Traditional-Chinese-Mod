@@ -1,0 +1,52 @@
+{
+  "pvm_name": "EGM1JETB.PVM",
+  "source_path": "Process/PVMs/EGM1JETB.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "pan_jetb01",
+      "safe_name": "pan_jetb01",
+      "pvr_file": "000_pan_jetb01.pvr",
+      "png_file": "000_pan_jetb01.png",
+      "png_generated": true,
+      "gbix": 6260,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 1,
+      "name": "pan_jetb02",
+      "safe_name": "pan_jetb02",
+      "pvr_file": "001_pan_jetb02.pvr",
+      "png_file": "001_pan_jetb02.png",
+      "png_generated": true,
+      "gbix": 6261,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 2,
+      "name": "pan_jetb03",
+      "safe_name": "pan_jetb03",
+      "pvr_file": "002_pan_jetb03.pvr",
+      "png_file": "002_pan_jetb03.png",
+      "png_generated": true,
+      "gbix": 6262,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    }
+  ]
+}

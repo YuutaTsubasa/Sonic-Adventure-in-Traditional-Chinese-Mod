@@ -1,0 +1,67 @@
+{
+  "pvm_name": "SCORE_BACK.PVM",
+  "source_path": "Process/PVMs/SCORE_BACK.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "score_back",
+      "safe_name": "score_back",
+      "pvr_file": "000_score_back.pvr",
+      "png_file": "000_score_back.png",
+      "png_generated": true,
+      "gbix": 365665,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 8,
+      "height": 8,
+      "pvrt_size_field": 152
+    },
+    {
+      "index": 1,
+      "name": "score_back0_New",
+      "safe_name": "score_back0_New",
+      "pvr_file": "001_score_back0_New.pvr",
+      "png_file": "001_score_back0_New.png",
+      "png_generated": true,
+      "gbix": 365663,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 32,
+      "height": 32,
+      "pvrt_size_field": 2072
+    },
+    {
+      "index": 2,
+      "name": "score_back1",
+      "safe_name": "score_back1",
+      "pvr_file": "002_score_back1.pvr",
+      "png_file": "002_score_back1.png",
+      "png_generated": true,
+      "gbix": 365664,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 32,
+      "height": 32,
+      "pvrt_size_field": 2072
+    },
+    {
+      "index": 3,
+      "name": "score_ring",
+      "safe_name": "score_ring",
+      "pvr_file": "003_score_ring.pvr",
+      "png_file": "003_score_ring.png",
+      "png_generated": true,
+      "gbix": 100000030,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 64,
+      "height": 32,
+      "pvrt_size_field": 4120
+    }
+  ]
+}

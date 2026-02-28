@@ -1,0 +1,82 @@
+{
+  "pvm_name": "TUBA.PVM",
+  "source_path": "Process/PVMs/TUBA.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "tuba_asi",
+      "safe_name": "tuba_asi",
+      "pvr_file": "000_tuba_asi.pvr",
+      "png_file": "000_tuba_asi.png",
+      "png_generated": true,
+      "gbix": 1000254,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 32,
+      "height": 32,
+      "pvrt_size_field": 2072
+    },
+    {
+      "index": 1,
+      "name": "tuba_hane",
+      "safe_name": "tuba_hane",
+      "pvr_file": "001_tuba_hane.pvr",
+      "png_file": "001_tuba_hane.png",
+      "png_generated": true,
+      "gbix": 1000255,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 2,
+      "name": "tuba_kao",
+      "safe_name": "tuba_kao",
+      "pvr_file": "002_tuba_kao.pvr",
+      "png_file": "002_tuba_kao.png",
+      "png_generated": true,
+      "gbix": 1000256,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 3,
+      "name": "tuba_karada",
+      "safe_name": "tuba_karada",
+      "pvr_file": "003_tuba_karada.pvr",
+      "png_file": "003_tuba_karada.png",
+      "png_generated": true,
+      "gbix": 1000257,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 4,
+      "name": "tuba_sippo",
+      "safe_name": "tuba_sippo",
+      "pvr_file": "004_tuba_sippo.pvr",
+      "png_file": "004_tuba_sippo.png",
+      "png_generated": true,
+      "gbix": 1000258,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 32,
+      "height": 32,
+      "pvrt_size_field": 2072
+    }
+  ]
+}

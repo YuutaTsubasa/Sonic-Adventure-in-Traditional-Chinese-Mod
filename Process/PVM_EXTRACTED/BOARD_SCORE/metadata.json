@@ -1,0 +1,22 @@
+{
+  "pvm_name": "BOARD_SCORE.PVM",
+  "source_path": "Process/PVMs/BOARD_SCORE.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "st_064s_score",
+      "safe_name": "st_064s_score",
+      "pvr_file": "000_st_064s_score.pvr",
+      "png_file": "000_st_064s_score.png",
+      "png_generated": true,
+      "gbix": 310000,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 64,
+      "height": 32,
+      "pvrt_size_field": 4120
+    }
+  ]
+}

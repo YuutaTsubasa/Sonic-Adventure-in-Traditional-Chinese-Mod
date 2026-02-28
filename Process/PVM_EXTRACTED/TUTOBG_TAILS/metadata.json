@@ -1,0 +1,67 @@
+{
+  "pvm_name": "TUTOBG_TAILS.PVM",
+  "source_path": "Process/PVMs/TUTOBG_TAILS.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "m_adv0_0",
+      "safe_name": "m_adv0_0",
+      "pvr_file": "000_m_adv0_0.pvr",
+      "png_file": "000_m_adv0_0.png",
+      "png_generated": true,
+      "gbix": 365628,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 256,
+      "height": 256,
+      "pvrt_size_field": 131096
+    },
+    {
+      "index": 1,
+      "name": "m_adv0_1",
+      "safe_name": "m_adv0_1",
+      "pvr_file": "001_m_adv0_1.pvr",
+      "png_file": "001_m_adv0_1.png",
+      "png_generated": true,
+      "gbix": 365629,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 256,
+      "height": 256,
+      "pvrt_size_field": 131096
+    },
+    {
+      "index": 2,
+      "name": "m_adv1_0",
+      "safe_name": "m_adv1_0",
+      "pvr_file": "002_m_adv1_0.pvr",
+      "png_file": "002_m_adv1_0.png",
+      "png_generated": true,
+      "gbix": 365630,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 256,
+      "height": 256,
+      "pvrt_size_field": 131096
+    },
+    {
+      "index": 3,
+      "name": "m_adv1_1",
+      "safe_name": "m_adv1_1",
+      "pvr_file": "003_m_adv1_1.pvr",
+      "png_file": "003_m_adv1_1.png",
+      "png_generated": true,
+      "gbix": 365631,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 256,
+      "height": 256,
+      "pvrt_size_field": 131096
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+Name=texlist_029BD918
+TexnameArrayName=textures_029BD870
+NumTextures=14
+TextureNames[0]=tirepattern_ss
+TextureNames[1]=light1
+TextureNames[2]=light2
+TextureNames[3]=ref_black
+TextureNames[4]=ref_crome
+TextureNames[5]=ref_lblue
+TextureNames[6]=ref_red
+TextureNames[7]=ref_sscar
+TextureNames[8]=ref_white
+TextureNames[9]=spotlight0
+TextureNames[10]=ssheadlight0
+TextureNames[11]=sspd
+TextureNames[12]=tyre
+TextureNames[13]=tyre_all

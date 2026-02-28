@@ -1,0 +1,22 @@
+{
+  "pvm_name": "CAPTUREBEAM.PVM",
+  "source_path": "Process/PVMs/CAPTUREBEAM.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "capturebeam",
+      "safe_name": "capturebeam",
+      "pvr_file": "000_capturebeam.pvr",
+      "png_file": "000_capturebeam.png",
+      "png_generated": true,
+      "gbix": 600132,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 128,
+      "height": 128,
+      "pvrt_size_field": 43704
+    }
+  ]
+}

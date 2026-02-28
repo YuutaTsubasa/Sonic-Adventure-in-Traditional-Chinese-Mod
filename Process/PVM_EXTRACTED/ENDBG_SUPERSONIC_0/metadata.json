@@ -1,0 +1,82 @@
+{
+  "pvm_name": "ENDBG_SUPERSONIC_0.PVM",
+  "source_path": "Process/PVMs/ENDBG_SUPERSONIC_0.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "supersonic_01",
+      "safe_name": "supersonic_01",
+      "pvr_file": "000_supersonic_01.pvr",
+      "png_file": "000_supersonic_01.png",
+      "png_generated": false,
+      "gbix": 366150,
+      "has_gbix": 1,
+      "pixel_format": 1,
+      "data_format": 1,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 524296
+    },
+    {
+      "index": 1,
+      "name": "supersonic_02",
+      "safe_name": "supersonic_02",
+      "pvr_file": "001_supersonic_02.pvr",
+      "png_file": "001_supersonic_02.png",
+      "png_generated": false,
+      "gbix": 366151,
+      "has_gbix": 1,
+      "pixel_format": 1,
+      "data_format": 1,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 524296
+    },
+    {
+      "index": 2,
+      "name": "supersonic_03",
+      "safe_name": "supersonic_03",
+      "pvr_file": "002_supersonic_03.pvr",
+      "png_file": "002_supersonic_03.png",
+      "png_generated": false,
+      "gbix": 366152,
+      "has_gbix": 1,
+      "pixel_format": 1,
+      "data_format": 1,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 524296
+    },
+    {
+      "index": 3,
+      "name": "supersonic_04",
+      "safe_name": "supersonic_04",
+      "pvr_file": "003_supersonic_04.pvr",
+      "png_file": "003_supersonic_04.png",
+      "png_generated": false,
+      "gbix": 366153,
+      "has_gbix": 1,
+      "pixel_format": 1,
+      "data_format": 1,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 524296
+    },
+    {
+      "index": 4,
+      "name": "supersonic_05",
+      "safe_name": "supersonic_05",
+      "pvr_file": "004_supersonic_05.pvr",
+      "png_file": "004_supersonic_05.png",
+      "png_generated": false,
+      "gbix": 366154,
+      "has_gbix": 1,
+      "pixel_format": 1,
+      "data_format": 1,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 524296
+    }
+  ]
+}

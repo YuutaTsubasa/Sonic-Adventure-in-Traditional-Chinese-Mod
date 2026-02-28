@@ -1,0 +1,82 @@
+{
+  "pvm_name": "ENDBG_AMY_0.PVM",
+  "source_path": "Process/PVMs/ENDBG_AMY_0.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "amy_01",
+      "safe_name": "amy_01",
+      "pvr_file": "000_amy_01.pvr",
+      "png_file": "000_amy_01.png",
+      "png_generated": false,
+      "gbix": 366027,
+      "has_gbix": 1,
+      "pixel_format": 1,
+      "data_format": 1,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 524296
+    },
+    {
+      "index": 1,
+      "name": "amy_02",
+      "safe_name": "amy_02",
+      "pvr_file": "001_amy_02.pvr",
+      "png_file": "001_amy_02.png",
+      "png_generated": false,
+      "gbix": 366028,
+      "has_gbix": 1,
+      "pixel_format": 1,
+      "data_format": 1,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 524296
+    },
+    {
+      "index": 2,
+      "name": "amy_03",
+      "safe_name": "amy_03",
+      "pvr_file": "002_amy_03.pvr",
+      "png_file": "002_amy_03.png",
+      "png_generated": false,
+      "gbix": 366029,
+      "has_gbix": 1,
+      "pixel_format": 1,
+      "data_format": 1,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 524296
+    },
+    {
+      "index": 3,
+      "name": "amy_04",
+      "safe_name": "amy_04",
+      "pvr_file": "003_amy_04.pvr",
+      "png_file": "003_amy_04.png",
+      "png_generated": false,
+      "gbix": 366030,
+      "has_gbix": 1,
+      "pixel_format": 1,
+      "data_format": 1,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 524296
+    },
+    {
+      "index": 4,
+      "name": "amy_05",
+      "safe_name": "amy_05",
+      "pvr_file": "004_amy_05.pvr",
+      "png_file": "004_amy_05.png",
+      "png_generated": false,
+      "gbix": 366031,
+      "has_gbix": 1,
+      "pixel_format": 1,
+      "data_format": 1,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 524296
+    }
+  ]
+}

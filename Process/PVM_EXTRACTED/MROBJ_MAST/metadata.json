@@ -1,0 +1,22 @@
+{
+  "pvm_name": "MROBJ_MAST.PVM",
+  "source_path": "Process/PVMs/MROBJ_MAST.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "mr_064s_emegrenb",
+      "safe_name": "mr_064s_emegrenb",
+      "pvr_file": "000_mr_064s_emegrenb.pvr",
+      "png_file": "000_mr_064s_emegrenb.png",
+      "png_generated": true,
+      "gbix": 600787,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 10936
+    }
+  ]
+}

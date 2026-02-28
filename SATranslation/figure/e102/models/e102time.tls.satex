@@ -1,0 +1,17 @@
+Name=texlist_0051D5E0
+TexnameArrayName=textures_0051D538
+NumTextures=14
+TextureNames[0]=digit0
+TextureNames[1]=digit1
+TextureNames[2]=digit2
+TextureNames[3]=digit3
+TextureNames[4]=digit4
+TextureNames[5]=digit5
+TextureNames[6]=digit6
+TextureNames[7]=digit7
+TextureNames[8]=digit8
+TextureNames[9]=digit9
+TextureNames[10]=colon
+TextureNames[11]=e102_getsecbg
+TextureNames[12]=e102_lockon0
+TextureNames[13]=e102lastsec

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+
+# Temporary/test work areas
+Process/ARCHIVETOOL_TEST/
+Process/ARCHIVE_PNG_TEST/
+Process/PVM_FIX_TEMP/
+Process/SAFLOW_TEST/
+Process/SAFLOW_REPACK/
+
+# Generated backups
+Process/backups/
+
+# Repacked outputs
+Process/PVM_REPACKED/
+
+# Ad-hoc rendered preview files in Process root
+Process/*_14.png
+Process/*_20.png
+Process/*_28.png
+Process/*_test.png
+Process/*_bold.png
+Process/*_cubic11.png
+Process/*_black1.png
+Process/*_blackstroke.png
+Process/cancel_test.png
+Process/cancel_test_bold.png
+Process/text_render_test.png
+
+# Logs
+Process/*.log

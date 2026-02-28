@@ -1,0 +1,52 @@
+{
+  "pvm_name": "GC_VMS.PVM",
+  "source_path": "Process/PVMs/GC_VMS.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "ms_gc_vms",
+      "safe_name": "ms_gc_vms",
+      "pvr_file": "000_ms_gc_vms.pvr",
+      "png_file": "000_ms_gc_vms.png",
+      "png_generated": true,
+      "gbix": 365120,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 256,
+      "height": 256,
+      "pvrt_size_field": 174776
+    },
+    {
+      "index": 1,
+      "name": "ms_port_a",
+      "safe_name": "ms_port_a",
+      "pvr_file": "001_ms_port_a.pvr",
+      "png_file": "001_ms_port_a.png",
+      "png_generated": true,
+      "gbix": 365119,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 128,
+      "height": 16,
+      "pvrt_size_field": 4120
+    },
+    {
+      "index": 2,
+      "name": "ms_port_b",
+      "safe_name": "ms_port_b",
+      "pvr_file": "002_ms_port_b.pvr",
+      "png_file": "002_ms_port_b.png",
+      "png_generated": true,
+      "gbix": 365130,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 128,
+      "height": 16,
+      "pvrt_size_field": 4120
+    }
+  ]
+}

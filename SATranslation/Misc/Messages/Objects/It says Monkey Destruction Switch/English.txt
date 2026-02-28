@@ -1,0 +1,2 @@
+It says 'Monkey Destruction Switch'\n
+'Press to destroy.'

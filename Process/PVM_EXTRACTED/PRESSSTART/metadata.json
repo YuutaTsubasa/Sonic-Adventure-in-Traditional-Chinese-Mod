@@ -1,0 +1,22 @@
+{
+  "pvm_name": "PRESSSTART.PVM",
+  "source_path": "Process/PVMs/PRESSSTART.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "hyoji_pressstart",
+      "safe_name": "hyoji_pressstart",
+      "pvr_file": "000_hyoji_pressstart.pvr",
+      "png_file": "000_hyoji_pressstart.png",
+      "png_generated": true,
+      "gbix": 5000900,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 256,
+      "height": 32,
+      "pvrt_size_field": 16392
+    }
+  ]
+}

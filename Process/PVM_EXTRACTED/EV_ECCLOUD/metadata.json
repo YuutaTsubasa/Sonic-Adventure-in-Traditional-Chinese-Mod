@@ -1,0 +1,52 @@
+{
+  "pvm_name": "EV_ECCLOUD.PVM",
+  "source_path": "Process/PVMs/EV_ECCLOUD.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "ecsc_s_cla",
+      "safe_name": "ecsc_s_cla",
+      "pvr_file": "000_ecsc_s_cla.pvr",
+      "png_file": "000_ecsc_s_cla.png",
+      "png_generated": true,
+      "gbix": 217096,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 1,
+      "name": "ecsc_s_clb",
+      "safe_name": "ecsc_s_clb",
+      "pvr_file": "001_ecsc_s_clb.pvr",
+      "png_file": "001_ecsc_s_clb.png",
+      "png_generated": true,
+      "gbix": 217097,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 2,
+      "name": "ecsc_s_clc",
+      "safe_name": "ecsc_s_clc",
+      "pvr_file": "002_ecsc_s_clc.pvr",
+      "png_file": "002_ecsc_s_clc.png",
+      "png_generated": true,
+      "gbix": 217098,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Name=texlist_0051CBC0
+TexnameArrayName=textures_0051CB60
+NumTextures=8
+TextureNames[0]=mstx_newspin
+TextureNames[1]=mstx_body0
+TextureNames[2]=mstx_body1
+TextureNames[3]=mstx_ref0
+TextureNames[4]=mstx_ref1
+TextureNames[5]=mstx_ref2
+TextureNames[6]=mstx_ref3
+TextureNames[7]=mstx_ref5

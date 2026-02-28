@@ -1,0 +1,37 @@
+{
+  "pvm_name": "CHAOS_LIFEGAUGE.PVM",
+  "source_path": "Process/PVMs/CHAOS_LIFEGAUGE.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "target_hpbar",
+      "safe_name": "target_hpbar",
+      "pvr_file": "000_target_hpbar.pvr",
+      "png_file": "000_target_hpbar.png",
+      "png_generated": true,
+      "gbix": 400997,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 1,
+      "name": "target_hp",
+      "safe_name": "target_hp",
+      "pvr_file": "001_target_hp.pvr",
+      "png_file": "001_target_hp.png",
+      "png_generated": true,
+      "gbix": 400998,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 16,
+      "height": 16,
+      "pvrt_size_field": 536
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "pvm_name": "MR_SKY02.PVM",
+  "source_path": "Process/PVMs/MR_SKY02.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "mrcsc_008s_hirusorab",
+      "safe_name": "mrcsc_008s_hirusorab",
+      "pvr_file": "000_mrcsc_008s_hirusorab.pvr",
+      "png_file": "000_mrcsc_008s_hirusorab.png",
+      "png_generated": true,
+      "gbix": 227184,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 8,
+      "height": 8,
+      "pvrt_size_field": 152
+    },
+    {
+      "index": 1,
+      "name": "mrcsc_256s_hirusora",
+      "safe_name": "mrcsc_256s_hirusora",
+      "pvr_file": "001_mrcsc_256s_hirusora.pvr",
+      "png_file": "001_mrcsc_256s_hirusora.png",
+      "png_generated": true,
+      "gbix": 227187,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 2,
+      "name": "mrcsc_064s_yorusorab",
+      "safe_name": "mrcsc_064s_yorusorab",
+      "pvr_file": "002_mrcsc_064s_yorusorab.pvr",
+      "png_file": "002_mrcsc_064s_yorusorab.png",
+      "png_generated": true,
+      "gbix": 227186,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 8,
+      "height": 8,
+      "pvrt_size_field": 152
+    }
+  ]
+}

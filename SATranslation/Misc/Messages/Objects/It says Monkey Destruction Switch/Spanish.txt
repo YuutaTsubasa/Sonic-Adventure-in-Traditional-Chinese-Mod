@@ -1,0 +1,2 @@
+'Interruptor Para Destruir Monos'\n
+'Pulsar para destruir.'

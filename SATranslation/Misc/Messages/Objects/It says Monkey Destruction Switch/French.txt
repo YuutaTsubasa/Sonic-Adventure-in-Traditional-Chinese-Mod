@@ -1,0 +1,2 @@
+Il dit 'Déstruction de Singe'\n
+'Appuyez pour détruire.'

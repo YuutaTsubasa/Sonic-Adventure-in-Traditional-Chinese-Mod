@@ -1,0 +1,15 @@
+Name=texlist_029BA0D8
+TexnameArrayName=textures_029BA048
+NumTextures=12
+TextureNames[0]=yakei_ref
+TextureNames[1]=yakei_ref_b
+TextureNames[2]=yakei_ref_w
+TextureNames[3]=light1
+TextureNames[4]=yakei_ref_orange
+TextureNames[5]=board_ura
+TextureNames[6]=rock_panel3
+TextureNames[7]=ref_crome
+TextureNames[8]=patlight_b
+TextureNames[9]=smokelight
+TextureNames[10]=patlight_a
+TextureNames[11]=sspd

@@ -1,0 +1,82 @@
+{
+  "pvm_name": "PEN.PVM",
+  "source_path": "Process/PVMs/PEN.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "pen_asi",
+      "safe_name": "pen_asi",
+      "pvr_file": "000_pen_asi.pvr",
+      "png_file": "000_pen_asi.png",
+      "png_generated": true,
+      "gbix": 1000244,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 32,
+      "height": 32,
+      "pvrt_size_field": 2072
+    },
+    {
+      "index": 1,
+      "name": "pen_atama",
+      "safe_name": "pen_atama",
+      "pvr_file": "001_pen_atama.pvr",
+      "png_file": "001_pen_atama.png",
+      "png_generated": true,
+      "gbix": 1000245,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 2,
+      "name": "pen_kao",
+      "safe_name": "pen_kao",
+      "pvr_file": "002_pen_kao.pvr",
+      "png_file": "002_pen_kao.png",
+      "png_generated": true,
+      "gbix": 1000246,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 3,
+      "name": "pen_kuti",
+      "safe_name": "pen_kuti",
+      "pvr_file": "003_pen_kuti.pvr",
+      "png_file": "003_pen_kuti.png",
+      "png_generated": true,
+      "gbix": 1000247,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 16,
+      "height": 16,
+      "pvrt_size_field": 536
+    },
+    {
+      "index": 4,
+      "name": "pen_mayu",
+      "safe_name": "pen_mayu",
+      "pvr_file": "004_pen_mayu.pvr",
+      "png_file": "004_pen_mayu.png",
+      "png_generated": true,
+      "gbix": 1000248,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    }
+  ]
+}

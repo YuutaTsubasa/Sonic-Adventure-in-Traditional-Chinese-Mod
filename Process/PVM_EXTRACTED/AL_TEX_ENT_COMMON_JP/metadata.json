@@ -1,0 +1,52 @@
+{
+  "pvm_name": "AL_TEX_ENT_COMMON_JP.PVM",
+  "source_path": "Process/PVMs/AL_TEX_ENT_COMMON_JP.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "ad_entry1",
+      "safe_name": "ad_entry1",
+      "pvr_file": "000_ad_entry1.pvr",
+      "png_file": "000_ad_entry1.png",
+      "png_generated": true,
+      "gbix": 1000449,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 524312
+    },
+    {
+      "index": 1,
+      "name": "ad_pika",
+      "safe_name": "ad_pika",
+      "pvr_file": "001_ad_pika.pvr",
+      "png_file": "001_ad_pika.png",
+      "png_generated": true,
+      "gbix": 170005,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 256,
+      "height": 128,
+      "pvrt_size_field": 65560
+    },
+    {
+      "index": 2,
+      "name": "add_parameter_race_ja",
+      "safe_name": "add_parameter_race_ja",
+      "pvr_file": "002_add_parameter_race_ja.pvr",
+      "png_file": "002_add_parameter_race_ja.png",
+      "png_generated": true,
+      "gbix": 200008,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 128,
+      "height": 128,
+      "pvrt_size_field": 32792
+    }
+  ]
+}

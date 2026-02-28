@@ -1,0 +1,37 @@
+{
+  "pvm_name": "ADV_WINDOW.PVM",
+  "source_path": "Process/PVMs/ADV_WINDOW.PVM",
+  "flags": 265,
+  "entries": [
+    {
+      "index": 0,
+      "name": "ss_b_kado",
+      "safe_name": "ss_b_kado",
+      "pvr_file": "000_ss_b_kado.pvr",
+      "png_file": "000_ss_b_kado.png",
+      "png_generated": true,
+      "gbix": 365102,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 1,
+      "width": 16,
+      "height": 16,
+      "pvrt_size_field": 536
+    },
+    {
+      "index": 1,
+      "name": "ss_b_naka",
+      "safe_name": "ss_b_naka",
+      "pvr_file": "001_ss_b_naka.pvr",
+      "png_file": "001_ss_b_naka.png",
+      "png_generated": true,
+      "gbix": 365103,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 1,
+      "width": 16,
+      "height": 16,
+      "pvrt_size_field": 536
+    }
+  ]
+}

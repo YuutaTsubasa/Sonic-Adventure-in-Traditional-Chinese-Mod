@@ -1,0 +1,52 @@
+{
+  "pvm_name": "LOADING.PVM",
+  "source_path": "Process/PVMs/LOADING.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "loading822a",
+      "safe_name": "loading822a",
+      "pvr_file": "000_loading822a.pvr",
+      "png_file": "000_loading822a.png",
+      "png_generated": true,
+      "gbix": 936,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 128,
+      "height": 128,
+      "pvrt_size_field": 32792
+    },
+    {
+      "index": 1,
+      "name": "loading822b",
+      "safe_name": "loading822b",
+      "pvr_file": "001_loading822b.pvr",
+      "png_file": "001_loading822b.png",
+      "png_generated": true,
+      "gbix": 937,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 128,
+      "height": 128,
+      "pvrt_size_field": 32792
+    },
+    {
+      "index": 2,
+      "name": "loadingback",
+      "safe_name": "loadingback",
+      "pvr_file": "002_loadingback.pvr",
+      "png_file": "002_loadingback.png",
+      "png_generated": true,
+      "gbix": 999,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 8,
+      "height": 8,
+      "pvrt_size_field": 152
+    }
+  ]
+}

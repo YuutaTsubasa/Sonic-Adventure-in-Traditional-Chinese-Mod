@@ -1,0 +1,67 @@
+{
+  "pvm_name": "KOAR.PVM",
+  "source_path": "Process/PVMs/KOAR.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "koar_kao",
+      "safe_name": "koar_kao",
+      "pvr_file": "000_koar_kao.pvr",
+      "png_file": "000_koar_kao.png",
+      "png_generated": true,
+      "gbix": 1000259,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 1,
+      "name": "koar_karada",
+      "safe_name": "koar_karada",
+      "pvr_file": "001_koar_karada.pvr",
+      "png_file": "001_koar_karada.png",
+      "png_generated": true,
+      "gbix": 1000260,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 2,
+      "name": "koar_mimi",
+      "safe_name": "koar_mimi",
+      "pvr_file": "002_koar_mimi.pvr",
+      "png_file": "002_koar_mimi.png",
+      "png_generated": true,
+      "gbix": 1000261,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 3,
+      "name": "koar_te",
+      "safe_name": "koar_te",
+      "pvr_file": "003_koar_te.pvr",
+      "png_file": "003_koar_te.png",
+      "png_generated": true,
+      "gbix": 1000262,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    }
+  ]
+}

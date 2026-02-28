@@ -1,0 +1,52 @@
+{
+  "pvm_name": "CHAOS7_0WATEREXP.PVM",
+  "source_path": "Process/PVMs/CHAOS7_0WATEREXP.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "c7_watercolumn01",
+      "safe_name": "c7_watercolumn01",
+      "pvr_file": "000_c7_watercolumn01.pvr",
+      "png_file": "000_c7_watercolumn01.png",
+      "png_generated": true,
+      "gbix": 406200,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 1,
+      "name": "c7_waterexplode01",
+      "safe_name": "c7_waterexplode01",
+      "pvr_file": "001_c7_waterexplode01.pvr",
+      "png_file": "001_c7_waterexplode01.png",
+      "png_generated": true,
+      "gbix": 406205,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 2,
+      "name": "c7_waterexplode02",
+      "safe_name": "c7_waterexplode02",
+      "pvr_file": "002_c7_waterexplode02.pvr",
+      "png_file": "002_c7_waterexplode02.png",
+      "png_generated": true,
+      "gbix": 406206,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    }
+  ]
+}

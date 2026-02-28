@@ -1,0 +1,67 @@
+{
+  "pvm_name": "AMY_EFF.PVM",
+  "source_path": "Process/PVMs/AMY_EFF.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "a_shock",
+      "safe_name": "a_shock",
+      "pvr_file": "000_a_shock.pvr",
+      "png_file": "000_a_shock.png",
+      "png_generated": true,
+      "gbix": 1592,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 32,
+      "height": 32,
+      "pvrt_size_field": 2072
+    },
+    {
+      "index": 1,
+      "name": "a_heart2",
+      "safe_name": "a_heart2",
+      "pvr_file": "001_a_heart2.pvr",
+      "png_file": "001_a_heart2.png",
+      "png_generated": true,
+      "gbix": 1590,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 32,
+      "height": 32,
+      "pvrt_size_field": 2072
+    },
+    {
+      "index": 2,
+      "name": "a_piyo01",
+      "safe_name": "a_piyo01",
+      "pvr_file": "002_a_piyo01.pvr",
+      "png_file": "002_a_piyo01.png",
+      "png_generated": true,
+      "gbix": 1591,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 32,
+      "height": 32,
+      "pvrt_size_field": 2072
+    },
+    {
+      "index": 3,
+      "name": "a_piyo02",
+      "safe_name": "a_piyo02",
+      "pvr_file": "003_a_piyo02.pvr",
+      "png_file": "003_a_piyo02.png",
+      "png_generated": true,
+      "gbix": 1593,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 32,
+      "height": 32,
+      "pvrt_size_field": 2072
+    }
+  ]
+}

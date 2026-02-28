@@ -1,0 +1,17 @@
+Name=texlist_0051BD20
+TexnameArrayName=textures_0051BC78
+NumTextures=14
+TextureNames[0]=ktx_eye01
+TextureNames[1]=ktx_eye02
+TextureNames[2]=ktx_face01
+TextureNames[3]=ktx_fgrove01
+TextureNames[4]=ktx_fgrove02
+TextureNames[5]=ktx_ha
+TextureNames[6]=ktx_hand01
+TextureNames[7]=ktx_hand02
+TextureNames[8]=ktx_kuchinaka01
+TextureNames[9]=ktx_kuchinaka02
+TextureNames[10]=ktx_mune
+TextureNames[11]=ktx_scrow01
+TextureNames[12]=ktx_shoose01
+TextureNames[13]=ktx_spin00

@@ -1,0 +1,52 @@
+{
+  "pvm_name": "AL_GARDEN00SS_2D.PVM",
+  "source_path": "Process/PVMs/AL_GARDEN00SS_2D.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "add_hintbox1",
+      "safe_name": "add_hintbox1",
+      "pvr_file": "000_add_hintbox1.pvr",
+      "png_file": "000_add_hintbox1.png",
+      "png_generated": true,
+      "gbix": 1000521,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 128,
+      "height": 128,
+      "pvrt_size_field": 32792
+    },
+    {
+      "index": 1,
+      "name": "add_hintbox2",
+      "safe_name": "add_hintbox2",
+      "pvr_file": "001_add_hintbox2.pvr",
+      "png_file": "001_add_hintbox2.png",
+      "png_generated": true,
+      "gbix": 1000522,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 2,
+      "name": "add_hintbox3",
+      "safe_name": "add_hintbox3",
+      "pvr_file": "002_add_hintbox3.pvr",
+      "png_file": "002_add_hintbox3.png",
+      "png_generated": true,
+      "gbix": 1000523,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    }
+  ]
+}

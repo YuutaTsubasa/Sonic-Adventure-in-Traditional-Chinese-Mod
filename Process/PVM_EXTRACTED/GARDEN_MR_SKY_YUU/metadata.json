@@ -1,0 +1,82 @@
+{
+  "pvm_name": "GARDEN_MR_SKY_YUU.PVM",
+  "source_path": "Process/PVMs/GARDEN_MR_SKY_YUU.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "mrasc_008s_yusorab",
+      "safe_name": "mrasc_008s_yusorab",
+      "pvr_file": "000_mrasc_008s_yusorab.pvr",
+      "png_file": "000_mrasc_008s_yusorab.png",
+      "png_generated": true,
+      "gbix": 586000,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 8,
+      "height": 8,
+      "pvrt_size_field": 184
+    },
+    {
+      "index": 1,
+      "name": "mrasc_016s_yuuumi",
+      "safe_name": "mrasc_016s_yuuumi",
+      "pvr_file": "001_mrasc_016s_yuuumi.pvr",
+      "png_file": "001_mrasc_016s_yuuumi.png",
+      "png_generated": true,
+      "gbix": 586001,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 16,
+      "height": 16,
+      "pvrt_size_field": 696
+    },
+    {
+      "index": 2,
+      "name": "mrasc_256s_yuusoraa",
+      "safe_name": "mrasc_256s_yuusoraa",
+      "pvr_file": "002_mrasc_256s_yuusoraa.pvr",
+      "png_file": "002_mrasc_256s_yuusoraa.png",
+      "png_generated": true,
+      "gbix": 586002,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 256,
+      "height": 256,
+      "pvrt_size_field": 174776
+    },
+    {
+      "index": 3,
+      "name": "mrcsc_008s_yusorab",
+      "safe_name": "mrcsc_008s_yusorab",
+      "pvr_file": "003_mrcsc_008s_yusorab.pvr",
+      "png_file": "003_mrcsc_008s_yusorab.png",
+      "png_generated": true,
+      "gbix": 586003,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 8,
+      "height": 8,
+      "pvrt_size_field": 184
+    },
+    {
+      "index": 4,
+      "name": "mrcsc_256s_yusoraa",
+      "safe_name": "mrcsc_256s_yusoraa",
+      "pvr_file": "004_mrcsc_256s_yusoraa.pvr",
+      "png_file": "004_mrcsc_256s_yusoraa.png",
+      "png_generated": true,
+      "gbix": 586004,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 256,
+      "height": 256,
+      "pvrt_size_field": 174776
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+10001375,main_tx_action.png,256x16
+10001349,main_tx_ad.png,128x16
+10001353,main_tx_in.png,128x16
+10001368,main_tx_mini.png,128x16
+10001346,main_tx_op.png,128x16
+10001355,main_tx_try.png,128x16
+10001367,main_win_s.png,256x256
+10001311,main_tx_emblemj.png,256x16
+100000140,main_tx_puti.png,256x16
+3489661192,end_game_j.png,128x16

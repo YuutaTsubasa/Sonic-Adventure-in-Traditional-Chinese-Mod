@@ -1,0 +1,1 @@
+Quit the game and return to the Main Menu.\nIs this OK?

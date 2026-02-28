@@ -1,0 +1,52 @@
+{
+  "pvm_name": "L_SIBUKI.PVM",
+  "source_path": "Process/PVMs/L_SIBUKI.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "620001",
+      "safe_name": "620001",
+      "pvr_file": "000_620001.pvr",
+      "png_file": "000_620001.png",
+      "png_generated": true,
+      "gbix": 611128,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 10936
+    },
+    {
+      "index": 1,
+      "name": "620002",
+      "safe_name": "620002",
+      "pvr_file": "001_620002.pvr",
+      "png_file": "001_620002.png",
+      "png_generated": true,
+      "gbix": 611129,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 10936
+    },
+    {
+      "index": 2,
+      "name": "620000",
+      "safe_name": "620000",
+      "pvr_file": "002_620000.pvr",
+      "png_file": "002_620000.png",
+      "png_generated": true,
+      "gbix": 611130,
+      "has_gbix": 1,
+      "pixel_format": 2,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 10936
+    }
+  ]
+}

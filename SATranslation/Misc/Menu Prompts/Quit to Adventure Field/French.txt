@@ -1,0 +1,1 @@
+Cela terminera le niveau et renverra le\npersonnage à l'écran de sélection, O.K. ? 

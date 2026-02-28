@@ -1,0 +1,12 @@
+Name=texlist_00114E8C
+TexnameArrayName=textures_00114E20
+NumTextures=9
+TextureNames[0]=mra_008s_hirusorab
+TextureNames[1]=mrasc_016s_hiruumi
+TextureNames[2]=mrasc_256s_hirusoraa
+TextureNames[3]=mrasc_016s_yoruumi
+TextureNames[4]=mrasc_064s_yorusorab
+TextureNames[5]=mrasc_256s_yorusoraa
+TextureNames[6]=mrasc_008s_yusorab
+TextureNames[7]=mrasc_016s_yuuumi
+TextureNames[8]=mrasc_256s_yuusoraa

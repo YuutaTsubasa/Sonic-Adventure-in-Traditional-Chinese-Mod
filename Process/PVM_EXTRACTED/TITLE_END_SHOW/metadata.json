@@ -1,0 +1,22 @@
+{
+  "pvm_name": "TITLE_END_SHOW.PVM",
+  "source_path": "Process/PVMs/TITLE_END_SHOW.PVM",
+  "flags": 271,
+  "entries": [
+    {
+      "index": 0,
+      "name": "end_left",
+      "safe_name": "end_left",
+      "pvr_file": "000_end_left.pvr",
+      "png_file": "000_end_left.png",
+      "png_generated": true,
+      "gbix": 905400,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 512,
+      "height": 512,
+      "pvrt_size_field": 524312
+    }
+  ]
+}

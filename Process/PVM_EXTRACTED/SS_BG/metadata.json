@@ -1,0 +1,67 @@
+{
+  "pvm_name": "SS_BG.PVM",
+  "source_path": "Process/PVMs/SS_BG.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "obj_sssky_d",
+      "safe_name": "obj_sssky_d",
+      "pvr_file": "000_obj_sssky_d.pvr",
+      "png_file": "000_obj_sssky_d.png",
+      "png_generated": true,
+      "gbix": 204850,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 256,
+      "height": 256,
+      "pvrt_size_field": 131080
+    },
+    {
+      "index": 1,
+      "name": "obj_sssky_e",
+      "safe_name": "obj_sssky_e",
+      "pvr_file": "001_obj_sssky_e.pvr",
+      "png_file": "001_obj_sssky_e.png",
+      "png_generated": true,
+      "gbix": 204851,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 256,
+      "height": 256,
+      "pvrt_size_field": 131096
+    },
+    {
+      "index": 2,
+      "name": "obj_ssskybb_n",
+      "safe_name": "obj_ssskybb_n",
+      "pvr_file": "002_obj_ssskybb_n.pvr",
+      "png_file": "002_obj_ssskybb_n.png",
+      "png_generated": true,
+      "gbix": 204852,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 128,
+      "height": 128,
+      "pvrt_size_field": 43704
+    },
+    {
+      "index": 3,
+      "name": "obj_sssky_n",
+      "safe_name": "obj_sssky_n",
+      "pvr_file": "003_obj_sssky_n.pvr",
+      "png_file": "003_obj_sssky_n.png",
+      "png_generated": true,
+      "gbix": 204853,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 256,
+      "height": 256,
+      "pvrt_size_field": 131096
+    }
+  ]
+}

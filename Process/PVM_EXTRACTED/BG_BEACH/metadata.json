@@ -1,0 +1,52 @@
+{
+  "pvm_name": "BG_BEACH.PVM",
+  "source_path": "Process/PVMs/BG_BEACH.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "sea1_36",
+      "safe_name": "sea1_36",
+      "pvr_file": "000_sea1_36.pvr",
+      "png_file": "000_sea1_36.png",
+      "png_generated": true,
+      "gbix": 17990,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 8,
+      "height": 8,
+      "pvrt_size_field": 184
+    },
+    {
+      "index": 1,
+      "name": "sonic_sky1",
+      "safe_name": "sonic_sky1",
+      "pvr_file": "001_sonic_sky1.pvr",
+      "png_file": "001_sonic_sky1.png",
+      "png_generated": true,
+      "gbix": 17991,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 256,
+      "height": 256,
+      "pvrt_size_field": 174776
+    },
+    {
+      "index": 2,
+      "name": "sea1_37",
+      "safe_name": "sea1_37",
+      "pvr_file": "002_sea1_37.pvr",
+      "png_file": "002_sea1_37.png",
+      "png_generated": true,
+      "gbix": 17993,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 8,
+      "height": 8,
+      "pvrt_size_field": 152
+    }
+  ]
+}

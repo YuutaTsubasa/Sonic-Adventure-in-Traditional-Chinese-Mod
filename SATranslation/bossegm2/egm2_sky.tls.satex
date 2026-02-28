@@ -1,0 +1,5 @@
+Name=texlist_011E8BF0
+TexnameArrayName=textures_011E8BD8
+NumTextures=2
+TextureNames[0]=obj_sssky_n
+TextureNames[1]=obj_ssskyb_n

@@ -1,0 +1,22 @@
+{
+  "pvm_name": "CREAM.PVM",
+  "source_path": "Process/PVMs/CREAM.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "cream_t128",
+      "safe_name": "cream_t128",
+      "pvr_file": "000_cream_t128.pvr",
+      "png_file": "000_cream_t128.png",
+      "png_generated": true,
+      "gbix": 1300200,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 128,
+      "height": 128,
+      "pvrt_size_field": 43704
+    }
+  ]
+}

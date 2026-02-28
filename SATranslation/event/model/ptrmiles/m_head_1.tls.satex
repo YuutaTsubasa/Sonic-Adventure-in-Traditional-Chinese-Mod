@@ -1,0 +1,8 @@
+Name=texlist_02F31628
+TexnameArrayName=textures_02F315EC
+NumTextures=5
+TextureNames[0]=mtx_hand01
+TextureNames[1]=mtx_head01
+TextureNames[2]=mtx_kuchinaka0
+TextureNames[3]=mtx_kuchinaka1
+TextureNames[4]=mtx_white

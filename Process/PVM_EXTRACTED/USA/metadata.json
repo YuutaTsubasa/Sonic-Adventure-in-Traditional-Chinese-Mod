@@ -1,0 +1,67 @@
+{
+  "pvm_name": "USA.PVM",
+  "source_path": "Process/PVMs/USA.PVM",
+  "flags": 15,
+  "entries": [
+    {
+      "index": 0,
+      "name": "usa_kao",
+      "safe_name": "usa_kao",
+      "pvr_file": "000_usa_kao.pvr",
+      "png_file": "000_usa_kao.png",
+      "png_generated": true,
+      "gbix": 1000232,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 1,
+      "name": "usa_karada",
+      "safe_name": "usa_karada",
+      "pvr_file": "001_usa_karada.pvr",
+      "png_file": "001_usa_karada.png",
+      "png_generated": true,
+      "gbix": 1000233,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 32,
+      "height": 32,
+      "pvrt_size_field": 2072
+    },
+    {
+      "index": 2,
+      "name": "usa_mimi",
+      "safe_name": "usa_mimi",
+      "pvr_file": "002_usa_mimi.pvr",
+      "png_file": "002_usa_mimi.png",
+      "png_generated": true,
+      "gbix": 1000234,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    },
+    {
+      "index": 3,
+      "name": "usa_parts",
+      "safe_name": "usa_parts",
+      "pvr_file": "003_usa_parts.pvr",
+      "png_file": "003_usa_parts.png",
+      "png_generated": true,
+      "gbix": 1000235,
+      "has_gbix": 1,
+      "pixel_format": 0,
+      "data_format": 9,
+      "width": 64,
+      "height": 64,
+      "pvrt_size_field": 8216
+    }
+  ]
+}
