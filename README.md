@@ -12,7 +12,7 @@ v1.0 是整個重新翻譯的版本：
 
 ## 安裝（玩家）
 
-1. 先用 [SADX Mod Installer](https://gamebanana.com/tools/6252) 把 Steam 版轉成 2004 版並裝好 SA Mod Manager。
+1. 先用 [SADX Mod Installer](https://gamebanana.com/tools/6417) 把 Steam 版轉成 2004 版並裝好 SA Mod Manager。
 2. 把 `SADX_zh-TW` 資料夾放進遊戲的 `mods` 資料夾。
 3. 在 SA Mod Manager 啟用「Sonic Adventure DX 繁體中文化」，並停用舊版的「Traditional Chinese Version」。
 4. 遊戲的**文字語言設為日本語**（語音可任選）。
