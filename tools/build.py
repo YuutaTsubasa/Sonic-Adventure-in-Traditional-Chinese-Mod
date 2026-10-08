@@ -210,6 +210,8 @@ def main():
         "ModID=sadx.yuutatsubasa.traditionalchineseversion\n"
         "EXEData=sonic_data.ini\n", encoding="utf-8")
 
+    shutil.copy2(ROOT / "tools/README_mod.txt", OUT / "README_zh-TW.txt")
+
     report = {"units": n_all, "translated": n_tr, "chinese_chars": len(chars),
               "stand_in_codes": len(m["extra"]), "free_codes_left": m["free_codes_left"],
               "split_files": len(changed), "data_ini_items": nsec, "bin_files": len(per_bin), "extras": extras}
