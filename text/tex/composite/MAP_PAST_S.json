@@ -1,0 +1,8 @@
+{"tiles": ["map_pss_j0.png", "map_pss_j1.png", "map_pss_j2.png", "map_pss_j3.png", "map_pss_j4.png", "map_pss_j5.png"],
+ "twin": ["map_pss_e0.png", "map_pss_e1.png", "map_pss_e2.png", "map_pss_e3.png", "map_pss_e4.png", "map_pss_e5.png"],
+ "cols": 3, "thresh": 12, "dilate": 7,
+ "erase": [[131, 186, 285, 211], [528, 410, 668, 442]],
+ "blocks": [
+  {"rect": [140, 188, 282, 209], "zh": "納克魯斯族神殿", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "right"},
+  {"rect": [533, 414, 664, 437], "zh": "：回到遊戲", "size": 17, "weight": 700, "color": "#ffffff", "glow": "#000030", "glow_r": 1.2, "align": "left"}
+ ]}

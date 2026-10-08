@@ -1,0 +1,31 @@
+{
+ "archive": "TUTOMSG_AMY",
+ "ja": "走り＋[V]",
+ "erase": [
+  [
+   2,
+   2,
+   66,
+   30
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    2,
+    0,
+    68,
+    32
+   ],
+   "zh": "奔跑＋",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2,
+   "align": "left"
+  }
+ ],
+ "fill": "#ffcc00ff"
+}

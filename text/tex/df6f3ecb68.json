@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_BIG",
+ "ja": "■キャスト■",
+ "erase": [
+  [
+   3,
+   0,
+   126,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    4,
+    0,
+    126,
+    32
+   ],
+   "zh": "■拋竿■",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

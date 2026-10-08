@@ -1,0 +1,29 @@
+{
+ "archive": "E_STAGE04",
+ "ja": "レッド マウンテン",
+ "erase": [
+  [
+   167,
+   72,
+   298,
+   90
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    152,
+    73,
+    312,
+    90
+   ],
+   "zh": "紅色山脈",
+   "size": 15,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": -1
+  }
+ ]
+}

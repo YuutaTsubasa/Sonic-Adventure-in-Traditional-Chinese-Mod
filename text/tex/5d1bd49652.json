@@ -1,0 +1,40 @@
+{
+ "archive": "SCORE_BOSS",
+ "ja": "カオス２",
+ "erase": [
+  [
+   0,
+   0,
+   128,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "zh": "卡歐斯２",
+   "size": 23,
+   "weight": 700,
+   "align": "left",
+   "rect": [
+    3,
+    5,
+    128,
+    30
+   ],
+   "color": "#333333"
+  },
+  {
+   "zh": "卡歐斯２",
+   "size": 23,
+   "weight": 700,
+   "align": "left",
+   "rect": [
+    1,
+    3,
+    128,
+    28
+   ],
+   "color": "#ffffff"
+  }
+ ]
+}

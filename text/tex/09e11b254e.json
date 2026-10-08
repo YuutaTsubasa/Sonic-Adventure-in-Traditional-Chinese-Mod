@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_TAILS",
+ "ja": "疲れてしまうので注意。",
+ "erase": [
+  [
+   2,
+   0,
+   216,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    3,
+    0,
+    510,
+    32
+   ],
+   "zh": "會累壞，要小心。",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

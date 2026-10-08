@@ -1,1 +1,0 @@
-Quitter la partie et retourner au Menu\nprincipal. O.K. ?

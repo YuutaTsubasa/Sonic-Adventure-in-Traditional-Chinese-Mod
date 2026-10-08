@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_KNUCKLES",
+ "ja": "レーダーの音とアイコンの色をたよりに",
+ "erase": [
+  [
+   5,
+   0,
+   366,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    6,
+    0,
+    510,
+    32
+   ],
+   "zh": "與翡翠的距離而變化，以此為線索",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

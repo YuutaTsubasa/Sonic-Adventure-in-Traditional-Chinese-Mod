@@ -1,0 +1,44 @@
+{
+ "archive": "AL_ENT_TITLE_J_TEX",
+ "ja": "チャオレースエントリー",
+ "erase": [
+  [
+   0,
+   0,
+   512,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    3,
+    0,
+    513,
+    30
+   ],
+   "zh": "巧歐賽跑報名",
+   "size": 29,
+   "weight": 900,
+   "color": "#002277",
+   "align": "left",
+   "dy": 1,
+   "stroke": "#002277",
+   "stroke_w": 1
+  },
+  {
+   "rect": [
+    2,
+    0,
+    510,
+    30
+   ],
+   "zh": "巧歐賽跑報名",
+   "size": 29,
+   "weight": 900,
+   "color": "#ffffff",
+   "align": "left",
+   "dy": -1
+  }
+ ]
+}

@@ -1,0 +1,1 @@
+{"archive": "B_CHNAM_SHOW", "ja": "ナックルズ ザ エキドゥナ / レッドマウンテン", "erase": [[10, 35, 380, 53], [49, 99, 343, 112]], "blocks": [{"rect": [10, 35, 380, 53], "zh": "針鼴納克魯斯", "size": 15, "weight": 700, "color": "#ffffff", "align": "center"}, {"rect": [49, 99, 343, 112], "zh": "紅色山脈", "size": 13, "weight": 700, "color": "#ffffff", "align": "center"}], "erase_mode": "row"}

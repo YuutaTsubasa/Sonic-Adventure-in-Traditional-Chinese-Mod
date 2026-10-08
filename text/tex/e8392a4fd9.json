@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_KNUCKLES",
+ "ja": "[方向鍵]で、自由にカベを移動",
+ "erase": [
+  [
+   60,
+   0,
+   263,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    61,
+    0,
+    510,
+    32
+   ],
+   "zh": "可在牆上自由移動",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

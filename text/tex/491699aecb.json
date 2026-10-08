@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_SONIC",
+ "ja": "■その他のアクション■",
+ "erase": [
+  [
+   3,
+   0,
+   226,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    4,
+    0,
+    254,
+    32
+   ],
+   "zh": "■其他動作■",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

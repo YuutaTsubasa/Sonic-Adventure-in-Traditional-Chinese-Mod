@@ -1,0 +1,10 @@
+{"tiles": ["map_mrj_j0.png", "map_mrj_j1.png", "map_mrj_j2.png", "map_mrj_j3.png", "map_mrj_j4.png", "map_mrj_j5.png"],
+ "twin": ["map_mrj_e0.png", "map_mrj_e1.png", "map_mrj_e2.png", "map_mrj_e3.png", "map_mrj_e4.png", "map_mrj_e5.png"],
+ "cols": 3, "thresh": 12, "dilate": 7,
+ "erase": [[100, 68, 525, 104], [185, 168, 260, 194], [555, 193, 645, 218], [528, 410, 668, 442]],
+ "blocks": [
+  {"rect": [104, 70, 525, 100], "zh": "神祕遺跡　叢林區", "size": 26, "weight": 700, "color": "#ffffff", "glow": "#000040", "glow_r": 1.5, "align": "left"},
+  {"rect": [189, 170, 260, 191], "zh": "古代遺跡", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [560, 195, 640, 216], "zh": "比谷的家", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [533, 414, 664, 437], "zh": "：回到遊戲", "size": 17, "weight": 700, "color": "#ffffff", "glow": "#000030", "glow_r": 1.2, "align": "left"}
+ ]}

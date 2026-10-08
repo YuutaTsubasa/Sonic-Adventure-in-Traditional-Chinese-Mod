@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_BIG",
+ "ja": "[方向鍵]：つり竿の振り",
+ "erase": [
+  [
+   99,
+   0,
+   221,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    100,
+    0,
+    254,
+    32
+   ],
+   "zh": "擺動釣竿",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

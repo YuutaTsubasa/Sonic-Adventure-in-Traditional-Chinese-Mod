@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_KNUCKLES",
+ "ja": "地面を掘って、地中のアイテムを掘り出す。",
+ "erase": [
+  [
+   2,
+   0,
+   395,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    3,
+    0,
+    510,
+    32
+   ],
+   "zh": "就會挖掘地面，挖出地底的道具。",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

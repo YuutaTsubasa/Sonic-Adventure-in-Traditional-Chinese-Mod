@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_TAILS",
+ "ja": "[Space]：ジャンプ攻撃",
+ "erase": [
+  [
+   103,
+   0,
+   226,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    104,
+    0,
+    254,
+    32
+   ],
+   "zh": "跳躍攻擊",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

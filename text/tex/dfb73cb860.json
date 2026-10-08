@@ -1,0 +1,29 @@
+{
+ "archive": "B_STAGE01",
+ "ja": "トゥインクル パーク",
+ "erase": [
+  [
+   163,
+   72,
+   308,
+   90
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    155,
+    73,
+    315,
+    90
+   ],
+   "zh": "閃耀樂園",
+   "size": 15,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": -1
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "archive": "CHAO_HYOUJI",
+ "ja": "読み込みに失敗しました！",
+ "erase": [
+  [
+   0,
+   0,
+   256,
+   16
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    1,
+    0,
+    256,
+    16
+   ],
+   "zh": "讀取失敗！",
+   "size": 15,
+   "weight": 500,
+   "color": "#000000",
+   "align": "left",
+   "dy": 0
+  },
+  {
+   "rect": [
+    0,
+    0,
+    255,
+    16
+   ],
+   "zh": "讀取失敗！",
+   "size": 15,
+   "weight": 500,
+   "color": "#ffffff",
+   "align": "left",
+   "dy": -1
+  }
+ ]
+}

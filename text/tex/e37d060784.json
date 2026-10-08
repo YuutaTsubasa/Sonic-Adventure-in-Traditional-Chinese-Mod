@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_BIG",
+ "ja": "糸が切れてしまうので",
+ "erase": [
+  [
+   2,
+   0,
+   206,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    3,
+    0,
+    254,
+    32
+   ],
+   "zh": "釣線就會斷掉，",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

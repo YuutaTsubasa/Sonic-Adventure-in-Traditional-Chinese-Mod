@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_BIG",
+ "ja": "釣り上げてみよう。",
+ "erase": [
+  [
+   2,
+   0,
+   176,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    3,
+    0,
+    510,
+    32
+   ],
+   "zh": "也來釣釣看吧。",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

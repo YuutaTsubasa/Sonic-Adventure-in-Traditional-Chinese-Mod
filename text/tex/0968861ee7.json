@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_TAILS",
+ "ja": "■プロペラ飛行■",
+ "erase": [
+  [
+   3,
+   0,
+   166,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    4,
+    0,
+    254,
+    32
+   ],
+   "zh": "■螺旋槳飛行■",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

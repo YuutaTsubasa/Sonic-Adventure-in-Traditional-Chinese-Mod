@@ -1,0 +1,44 @@
+{
+ "archive": "AL_ENT_TITLE_J_TEX",
+ "ja": "コースセレクト",
+ "erase": [
+  [
+   0,
+   0,
+   256,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    3,
+    0,
+    257,
+    30
+   ],
+   "zh": "選擇賽道",
+   "size": 29,
+   "weight": 900,
+   "color": "#cc22bb",
+   "align": "left",
+   "dy": 1,
+   "stroke": "#cc22bb",
+   "stroke_w": 1
+  },
+  {
+   "rect": [
+    2,
+    0,
+    254,
+    30
+   ],
+   "zh": "選擇賽道",
+   "size": 29,
+   "weight": 900,
+   "color": "#ffffff",
+   "align": "left",
+   "dy": -1
+  }
+ ]
+}

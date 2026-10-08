@@ -1,1 +1,0 @@
-Spiel beenden und zum Charakter-Auswahl-\nBildschirm zurückkehren. Einverstanden?

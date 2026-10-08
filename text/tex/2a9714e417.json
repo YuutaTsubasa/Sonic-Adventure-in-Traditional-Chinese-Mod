@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_BIG",
+ "ja": "サカナを釣り上げるとき、",
+ "erase": [
+  [
+   2,
+   0,
+   234,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    3,
+    0,
+    254,
+    32
+   ],
+   "zh": "收線拉魚的時候，",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

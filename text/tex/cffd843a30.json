@@ -1,0 +1,53 @@
+{
+ "archive": "TUTOMSG_AMY",
+ "ja": "[V]押し＋[方向鍵]回転",
+ "erase": [
+  [
+   44,
+   2,
+   105,
+   30
+  ],
+  [
+   161,
+   2,
+   214,
+   30
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    44,
+    0,
+    108,
+    32
+   ],
+   "zh": "按住＋",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2,
+   "align": "left"
+  },
+  {
+   "rect": [
+    162,
+    0,
+    214,
+    32
+   ],
+   "zh": "旋轉",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2,
+   "align": "left"
+  }
+ ],
+ "fill": "#ffcc00ff"
+}

@@ -1,1 +1,0 @@
-This will end the game and return to the\ncharacter selection screen, is this ok?

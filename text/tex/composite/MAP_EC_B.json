@@ -1,0 +1,13 @@
+{"tiles": ["map_ecb_j0.png", "map_ecb_j1.png", "map_ecb_j2.png", "map_ecb_j3.png", "map_ecb_j4.png", "map_ecb_j5.png"],
+ "twin": ["map_ecb_e0.png", "map_ecb_e1.png", "map_ecb_e2.png", "map_ecb_e3.png", "map_ecb_e4.png", "map_ecb_e5.png"],
+ "cols": 3, "thresh": 12, "dilate": 7,
+ "erase": [[100, 66, 290, 99], [184, 136, 243, 160], [355, 181, 398, 207], [450, 173, 493, 199], [134, 326, 273, 354], [515, 323, 570, 349], [528, 410, 668, 442]],
+ "blocks": [
+  {"rect": [104, 70, 300, 100], "zh": "蛋頭母艦", "size": 26, "weight": 700, "color": "#ffffff", "glow": "#000040", "glow_r": 1.5, "align": "left"},
+  {"rect": [188, 138, 250, 159], "zh": "操縱室", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [359, 183, 410, 204], "zh": "艦橋", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [454, 175, 505, 196], "zh": "甲板", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [138, 329, 272, 350], "zh": "蛋頭博士的房間", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [519, 325, 570, 346], "zh": "泳池", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [533, 414, 664, 437], "zh": "：回到遊戲", "size": 17, "weight": 700, "color": "#ffffff", "glow": "#000030", "glow_r": 1.2, "align": "left"}
+ ]}

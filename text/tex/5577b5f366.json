@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_SONIC",
+ "ja": "カプセルではない場合があります。",
+ "erase": [
+  [
+   3,
+   0,
+   316,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    4,
+    0,
+    510,
+    32
+   ],
+   "zh": "並不是膠囊。",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

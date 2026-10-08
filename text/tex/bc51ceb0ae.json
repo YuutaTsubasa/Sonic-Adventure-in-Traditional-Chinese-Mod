@@ -1,0 +1,28 @@
+{
+ "archive": "T_STATIONSQUARE",
+ "ja": "ステーションスクエア",
+ "erase": [
+  [
+   153,
+   195,
+   344,
+   210
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    148,
+    195,
+    348,
+    210
+   ],
+   "zh": "車 站 廣 場",
+   "size": 17,
+   "weight": 500,
+   "color": "#ffffff",
+   "align": "center"
+  }
+ ]
+}

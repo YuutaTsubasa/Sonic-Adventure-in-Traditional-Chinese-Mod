@@ -1,0 +1,29 @@
+{
+ "archive": "E_STAGE01",
+ "ja": "ファイナル エッグ",
+ "erase": [
+  [
+   170,
+   72,
+   302,
+   90
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    156,
+    73,
+    316,
+    90
+   ],
+   "zh": "最終蛋頭基地",
+   "size": 15,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": -1
+  }
+ ]
+}

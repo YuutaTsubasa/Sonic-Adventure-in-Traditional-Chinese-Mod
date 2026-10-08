@@ -1,0 +1,29 @@
+{
+ "archive": "K_STAGE04",
+ "ja": "ロスト ワールド",
+ "erase": [
+  [
+   179,
+   72,
+   293,
+   90
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    156,
+    73,
+    316,
+    90
+   ],
+   "zh": "失落世界",
+   "size": 15,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": -1
+  }
+ ]
+}

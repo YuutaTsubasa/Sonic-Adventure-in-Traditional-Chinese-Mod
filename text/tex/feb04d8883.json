@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_BIG",
+ "ja": "[V]：リール弱巻き",
+ "erase": [
+  [
+   105,
+   0,
+   225,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    106,
+    0,
+    254,
+    32
+   ],
+   "zh": "慢速收線",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

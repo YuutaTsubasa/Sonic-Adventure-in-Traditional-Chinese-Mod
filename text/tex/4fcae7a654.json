@@ -1,0 +1,28 @@
+{
+ "archive": "T_MISTICRUIN",
+ "ja": "ミスティックルーイン",
+ "erase": [
+  [
+   157,
+   190,
+   346,
+   206
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    151,
+    190,
+    351,
+    206
+   ],
+   "zh": "神 祕 遺 跡",
+   "size": 17,
+   "weight": 500,
+   "color": "#ffffff",
+   "align": "center"
+  }
+ ]
+}

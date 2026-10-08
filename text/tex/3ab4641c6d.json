@@ -1,0 +1,175 @@
+{
+ "archive": "AL_TEX_ODEKAKE_MENU_JP",
+ "ja": "おなまえマシーン メニュー/おでかけ/とりだす/ひっこし/さようなら",
+ "erase": [
+  [
+   58,
+   0,
+   470,
+   39
+  ],
+  [
+   58,
+   39,
+   260,
+   202
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    66,
+    0,
+    470,
+    39
+   ],
+   "zh": "命名機 選單",
+   "size": 32,
+   "weight": 900,
+   "color": "#000000",
+   "stroke": "#000000",
+   "stroke_w": 2.5,
+   "align": "left",
+   "dy": 2
+  },
+  {
+   "rect": [
+    64,
+    0,
+    470,
+    39
+   ],
+   "zh": "命名機 選單",
+   "size": 32,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#212121",
+   "stroke_w": 2.5,
+   "align": "left"
+  },
+  {
+   "rect": [
+    66,
+    40,
+    300,
+    79
+   ],
+   "zh": "外出",
+   "size": 32,
+   "weight": 900,
+   "color": "#000000",
+   "stroke": "#000000",
+   "stroke_w": 2.5,
+   "align": "left",
+   "dy": 2
+  },
+  {
+   "rect": [
+    64,
+    40,
+    300,
+    79
+   ],
+   "zh": "外出",
+   "size": 32,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#212121",
+   "stroke_w": 2.5,
+   "align": "left"
+  },
+  {
+   "rect": [
+    66,
+    80,
+    300,
+    119
+   ],
+   "zh": "取出",
+   "size": 32,
+   "weight": 900,
+   "color": "#000000",
+   "stroke": "#000000",
+   "stroke_w": 2.5,
+   "align": "left",
+   "dy": 2
+  },
+  {
+   "rect": [
+    64,
+    80,
+    300,
+    119
+   ],
+   "zh": "取出",
+   "size": 32,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#212121",
+   "stroke_w": 2.5,
+   "align": "left"
+  },
+  {
+   "rect": [
+    66,
+    120,
+    300,
+    159
+   ],
+   "zh": "搬家",
+   "size": 32,
+   "weight": 900,
+   "color": "#000000",
+   "stroke": "#000000",
+   "stroke_w": 2.5,
+   "align": "left",
+   "dy": 2
+  },
+  {
+   "rect": [
+    64,
+    120,
+    300,
+    159
+   ],
+   "zh": "搬家",
+   "size": 32,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#212121",
+   "stroke_w": 2.5,
+   "align": "left"
+  },
+  {
+   "rect": [
+    66,
+    160,
+    300,
+    199
+   ],
+   "zh": "再見",
+   "size": 32,
+   "weight": 900,
+   "color": "#000000",
+   "stroke": "#000000",
+   "stroke_w": 2.5,
+   "align": "left",
+   "dy": 2
+  },
+  {
+   "rect": [
+    64,
+    160,
+    300,
+    199
+   ],
+   "zh": "再見",
+   "size": 32,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#212121",
+   "stroke_w": 2.5,
+   "align": "left"
+  }
+ ]
+}

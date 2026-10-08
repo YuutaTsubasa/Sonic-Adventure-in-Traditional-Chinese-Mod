@@ -1,0 +1,1 @@
+{"archive": "B_CHNAM_SHOW", "ja": "ソニック ザ ヘッジホッグ / スピードハイウェイ", "erase": [[10, 35, 380, 53], [49, 99, 343, 112]], "blocks": [{"rect": [10, 35, 380, 53], "zh": "刺蝟索尼克", "size": 15, "weight": 700, "color": "#ffffff", "align": "center"}, {"rect": [49, 99, 343, 112], "zh": "高速公路", "size": 13, "weight": 700, "color": "#ffffff", "align": "center"}], "erase_mode": "row"}

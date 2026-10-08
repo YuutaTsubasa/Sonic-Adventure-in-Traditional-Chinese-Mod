@@ -1,0 +1,28 @@
+{
+ "archive": "ST_STAGE05",
+ "ja": "ヘッジホッグ ハンマー",
+ "erase": [
+  [
+   163,
+   38,
+   334,
+   53
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    148,
+    38,
+    348,
+    53
+   ],
+   "zh": "刺蝟敲敲樂",
+   "size": 15,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center"
+  }
+ ]
+}

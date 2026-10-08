@@ -1,0 +1,1 @@
+{"archive": "AVA_FSCMN", "ja": "ファイル", "erase": [[0, 0, 128, 32]], "blocks": [{"rect": [3, 1, 129, 19], "zh": "檔案", "size": 17, "weight": 700, "color": "#000000", "align": "left", "dy": -2}, {"rect": [2, 0, 128, 18], "zh": "檔案", "size": 17, "weight": 700, "color": "#ffffff", "align": "left", "dy": -2}]}

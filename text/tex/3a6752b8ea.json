@@ -1,0 +1,29 @@
+{
+ "archive": "S_STAGE06",
+ "ja": "スピード ハイウェイ",
+ "erase": [
+  [
+   158,
+   72,
+   306,
+   90
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    152,
+    73,
+    312,
+    90
+   ],
+   "zh": "高速公路",
+   "size": 15,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": -1
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "archive": "TUTOMSG_AMY",
+ "ja": "ジャンプ中に[V]を押すと、",
+ "erase": [
+  [
+   3,
+   0,
+   126,
+   32
+  ],
+  [
+   170,
+   0,
+   261,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    4,
+    0,
+    126,
+    32
+   ],
+   "zh": "跳躍中按下",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  },
+  {
+   "rect": [
+    171,
+    0,
+    510,
+    32
+   ],
+   "zh": "，",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

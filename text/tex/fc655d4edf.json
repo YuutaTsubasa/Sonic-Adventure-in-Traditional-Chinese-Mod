@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_KNUCKLES",
+ "ja": "押し続けると、滑空飛行ができる。",
+ "erase": [
+  [
+   2,
+   0,
+   316,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    3,
+    0,
+    510,
+    32
+   ],
+   "zh": "持續按住，就能滑翔。",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_KNUCKLES",
+ "ja": "エメラルドとの距離に応じて変化する、",
+ "erase": [
+  [
+   3,
+   0,
+   354,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    4,
+    0,
+    510,
+    32
+   ],
+   "zh": "雷達的聲音和圖示顏色會隨著",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

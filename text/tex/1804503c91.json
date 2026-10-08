@@ -1,0 +1,1 @@
+{"archive": "B_CHNAM_SHOW", "ja": "ビッグ ザ キャット / エメラルドコースト", "erase": [[10, 35, 380, 53], [49, 99, 343, 112]], "blocks": [{"rect": [10, 35, 380, 53], "zh": "貓咪比谷", "size": 15, "weight": 700, "color": "#ffffff", "align": "center"}, {"rect": [49, 99, 343, 112], "zh": "翡翠海岸", "size": 13, "weight": 700, "color": "#ffffff", "align": "center"}], "erase_mode": "row"}

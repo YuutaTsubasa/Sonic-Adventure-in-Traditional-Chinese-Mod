@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_TAILS",
+ "ja": "テイルスのプロペラ飛行を使って",
+ "erase": [
+  [
+   3,
+   0,
+   305,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    4,
+    0,
+    510,
+    32
+   ],
+   "zh": "利用塔爾斯的螺旋槳飛行，",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

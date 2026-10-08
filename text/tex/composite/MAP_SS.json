@@ -1,0 +1,15 @@
+{"tiles": ["map_ss_j0.png", "map_ss_j1.png", "map_ss_j2.png", "map_ss_j3.png", "map_ss_j4.png", "map_ss_j5.png"],
+ "twin": ["map_ss_e0.png", "map_ss_e1.png", "map_ss_e2.png", "map_ss_e3.png", "map_ss_e4.png", "map_ss_e5.png"],
+ "cols": 3,
+ "erase": [[100, 68, 350, 102], [422, 94, 578, 118], [178, 142, 284, 166], [376, 199, 480, 223],
+           [206, 322, 264, 346], [418, 359, 574, 386], [291, 414, 394, 438], [531, 412, 666, 438]],
+ "blocks": [
+  {"rect": [104, 70, 300, 100], "zh": "車站廣場", "size": 26, "weight": 700, "color": "#ffffff", "glow": "#000040", "glow_r": 1.5, "align": "left"},
+  {"rect": [428, 96, 560, 117], "zh": "市政廳區", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [183, 144, 280, 165], "zh": "賭場區", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [381, 201, 470, 222], "zh": "車站", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [210, 324, 262, 345], "zh": "飯店", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [423, 361, 560, 385], "zh": "車站區", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [296, 416, 390, 437], "zh": "泳池畔", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [533, 414, 664, 437], "zh": "：回到遊戲", "size": 17, "weight": 700, "color": "#ffffff", "glow": "#000030", "glow_r": 1.2, "align": "left"}
+ ]}

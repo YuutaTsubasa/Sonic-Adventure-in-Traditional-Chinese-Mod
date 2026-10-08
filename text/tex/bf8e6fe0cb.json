@@ -1,0 +1,28 @@
+{
+ "archive": "T_EGGCARRIER",
+ "ja": "エッグキャリア",
+ "erase": [
+  [
+   168,
+   193,
+   316,
+   210
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    142,
+    193,
+    342,
+    210
+   ],
+   "zh": "蛋 頭 母 艦",
+   "size": 17,
+   "weight": 500,
+   "color": "#ffffff",
+   "align": "center"
+  }
+ ]
+}

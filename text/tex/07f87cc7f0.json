@@ -1,0 +1,28 @@
+{
+ "archive": "ST_STAGE04",
+ "ja": "サンド ヒル",
+ "erase": [
+  [
+   199,
+   38,
+   290,
+   53
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    144,
+    38,
+    344,
+    53
+   ],
+   "zh": "沙丘",
+   "size": 15,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center"
+  }
+ ]
+}

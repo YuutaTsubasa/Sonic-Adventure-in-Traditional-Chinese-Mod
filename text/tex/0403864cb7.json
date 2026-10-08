@@ -1,0 +1,52 @@
+{
+ "archive": "TUTOMSG_KNUCKLES",
+ "ja": "ジャンプ中にもう一度[Space]を",
+ "erase": [
+  [
+   3,
+   0,
+   206,
+   32
+  ],
+  [
+   250,
+   0,
+   273,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    4,
+    0,
+    207,
+    32
+   ],
+   "zh": "跳躍中再按一次",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  },
+  {
+   "rect": [
+    251,
+    0,
+    510,
+    32
+   ],
+   "zh": "，",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_AMY",
+ "ja": "■ジャンプアタック■",
+ "erase": [
+  [
+   3,
+   0,
+   206,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    4,
+    0,
+    254,
+    32
+   ],
+   "zh": "■跳躍攻擊■",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

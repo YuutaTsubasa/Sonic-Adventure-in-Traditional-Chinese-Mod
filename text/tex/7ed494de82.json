@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_SONIC",
+ "ja": "[Q]/[W]：カメラ回転",
+ "erase": [
+  [
+   103,
+   0,
+   206,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    104,
+    0,
+    254,
+    32
+   ],
+   "zh": "旋轉視角",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "archive": "SCORE_BOSS",
+ "ja": "エッグウォーカー",
+ "erase": [
+  [
+   0,
+   0,
+   256,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "zh": "蛋頭步行者",
+   "size": 23,
+   "weight": 700,
+   "align": "left",
+   "rect": [
+    3,
+    5,
+    256,
+    30
+   ],
+   "color": "#333333"
+  },
+  {
+   "zh": "蛋頭步行者",
+   "size": 23,
+   "weight": 700,
+   "align": "left",
+   "rect": [
+    1,
+    3,
+    256,
+    28
+   ],
+   "color": "#ffffff"
+  }
+ ]
+}

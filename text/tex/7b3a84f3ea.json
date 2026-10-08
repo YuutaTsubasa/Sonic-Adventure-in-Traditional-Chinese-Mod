@@ -1,0 +1,164 @@
+{
+ "archive": "AL_TEX_ODEKAKE_MENU_JP",
+ "ja": "オヨギタイプ/ヒコウタイプ/ハシリタイプ/チカラタイプ/ノーマルタイプ/コドモ/カオス/ニュートラル/ヒーロー/ダーク",
+ "erase": [
+  [
+   149,
+   0,
+   256,
+   128
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    150,
+    1,
+    256,
+    17
+   ],
+   "zh": "游泳型",
+   "size": 13,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "align": "left"
+  },
+  {
+   "rect": [
+    150,
+    17,
+    256,
+    33
+   ],
+   "zh": "飛行型",
+   "size": 13,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "align": "left"
+  },
+  {
+   "rect": [
+    150,
+    33,
+    256,
+    49
+   ],
+   "zh": "奔跑型",
+   "size": 13,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "align": "left"
+  },
+  {
+   "rect": [
+    150,
+    49,
+    256,
+    65
+   ],
+   "zh": "力量型",
+   "size": 13,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "align": "left"
+  },
+  {
+   "rect": [
+    150,
+    65,
+    256,
+    81
+   ],
+   "zh": "普通型",
+   "size": 13,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "align": "left"
+  },
+  {
+   "rect": [
+    150,
+    81,
+    194,
+    97
+   ],
+   "zh": "幼年",
+   "size": 13,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "align": "left"
+  },
+  {
+   "rect": [
+    186,
+    81,
+    250,
+    97
+   ],
+   "zh": "混沌",
+   "size": 13,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "align": "left"
+  },
+  {
+   "rect": [
+    150,
+    97,
+    256,
+    113
+   ],
+   "zh": "中立",
+   "size": 13,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "align": "left"
+  },
+  {
+   "rect": [
+    160,
+    113,
+    206,
+    128
+   ],
+   "zh": "英雄",
+   "size": 13,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "align": "left"
+  },
+  {
+   "rect": [
+    212,
+    113,
+    256,
+    128
+   ],
+   "zh": "黑暗",
+   "size": 13,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 1.5,
+   "align": "left"
+  }
+ ]
+}

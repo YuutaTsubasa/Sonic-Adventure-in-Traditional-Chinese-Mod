@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_BIG",
+ "ja": "[Space]で、水中に潜ることもできる。",
+ "erase": [
+  [
+   43,
+   0,
+   316,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    44,
+    0,
+    510,
+    32
+   ],
+   "zh": "也可以潛入水中。",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

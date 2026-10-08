@@ -1,0 +1,414 @@
+{
+ "archive": "SONICDX_GG_BG_JP",
+ "ja": "プチゲーム コレクション",
+ "blocks": [
+  {
+   "rect": [
+    68,
+    5,
+    258,
+    7
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#b56b73",
+   "align": "center"
+  },
+  {
+   "rect": [
+    68,
+    7,
+    258,
+    8
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#b5636b",
+   "align": "center"
+  },
+  {
+   "rect": [
+    68,
+    8,
+    258,
+    9
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#ad424a",
+   "align": "center"
+  },
+  {
+   "rect": [
+    68,
+    9,
+    258,
+    10
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#e71018",
+   "align": "center"
+  },
+  {
+   "rect": [
+    68,
+    10,
+    258,
+    22
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#ff0000",
+   "align": "center"
+  },
+  {
+   "rect": [
+    68,
+    22,
+    258,
+    23
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#ff7b84",
+   "align": "center"
+  },
+  {
+   "rect": [
+    68,
+    23,
+    258,
+    36
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#ffffff",
+   "align": "center"
+  },
+  {
+   "rect": [
+    68,
+    36,
+    258,
+    37
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#ff8c9c",
+   "align": "center"
+  },
+  {
+   "rect": [
+    68,
+    37,
+    258,
+    49
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#ff0000",
+   "align": "center"
+  },
+  {
+   "rect": [
+    68,
+    49,
+    258,
+    50
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#ce0000",
+   "align": "center"
+  },
+  {
+   "rect": [
+    68,
+    50,
+    258,
+    52
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#5a0008",
+   "align": "center"
+  },
+  {
+   "rect": [
+    68,
+    52,
+    258,
+    54
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#420000",
+   "align": "center"
+  },
+  {
+   "rect": [
+    -2,
+    133,
+    194,
+    135
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#b56b73",
+   "align": "center"
+  },
+  {
+   "rect": [
+    -2,
+    135,
+    194,
+    136
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#b5636b",
+   "align": "center"
+  },
+  {
+   "rect": [
+    -2,
+    136,
+    194,
+    137
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#ad424a",
+   "align": "center"
+  },
+  {
+   "rect": [
+    -2,
+    137,
+    194,
+    138
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#e71018",
+   "align": "center"
+  },
+  {
+   "rect": [
+    -2,
+    138,
+    194,
+    150
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#ff0000",
+   "align": "center"
+  },
+  {
+   "rect": [
+    -2,
+    150,
+    194,
+    151
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#ff7b84",
+   "align": "center"
+  },
+  {
+   "rect": [
+    -2,
+    151,
+    194,
+    164
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#ffffff",
+   "align": "center"
+  },
+  {
+   "rect": [
+    -2,
+    164,
+    194,
+    165
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#ff8c9c",
+   "align": "center"
+  },
+  {
+   "rect": [
+    -2,
+    165,
+    194,
+    177
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#ff0000",
+   "align": "center"
+  },
+  {
+   "rect": [
+    -2,
+    177,
+    194,
+    178
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#ce0000",
+   "align": "center"
+  },
+  {
+   "rect": [
+    -2,
+    178,
+    194,
+    180
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#5a0008",
+   "align": "center"
+  },
+  {
+   "rect": [
+    -2,
+    180,
+    194,
+    182
+   ],
+   "zh": "████████████",
+   "size": 40,
+   "weight": 400,
+   "color": "#420000",
+   "align": "center"
+  },
+  {
+   "rect": [
+    62,
+    8,
+    252,
+    56
+   ],
+   "color": "#420000",
+   "stroke": "#420000",
+   "stroke_w": 4,
+   "zh": "迷你遊",
+   "size": 35,
+   "weight": 900,
+   "align": "right",
+   "no_squeeze": true
+  },
+  {
+   "rect": [
+    60,
+    6,
+    250,
+    54
+   ],
+   "color": "#ffffff",
+   "stroke": "#ffffff",
+   "stroke_w": 4,
+   "zh": "迷你遊",
+   "size": 35,
+   "weight": 900,
+   "align": "right",
+   "no_squeeze": true
+  },
+  {
+   "rect": [
+    60,
+    6,
+    250,
+    54
+   ],
+   "color": "#f7d700",
+   "stroke": "#000000",
+   "stroke_w": 2,
+   "zh": "迷你遊",
+   "size": 35,
+   "weight": 900,
+   "align": "right",
+   "no_squeeze": true
+  },
+  {
+   "rect": [
+    8,
+    136,
+    202,
+    184
+   ],
+   "color": "#420000",
+   "stroke": "#420000",
+   "stroke_w": 4,
+   "zh": "戲合集",
+   "size": 35,
+   "weight": 900,
+   "align": "left",
+   "no_squeeze": true
+  },
+  {
+   "rect": [
+    6,
+    134,
+    200,
+    182
+   ],
+   "color": "#ffffff",
+   "stroke": "#ffffff",
+   "stroke_w": 4,
+   "zh": "戲合集",
+   "size": 35,
+   "weight": 900,
+   "align": "left",
+   "no_squeeze": true
+  },
+  {
+   "rect": [
+    6,
+    134,
+    200,
+    182
+   ],
+   "color": "#f7d700",
+   "stroke": "#000000",
+   "stroke_w": 2,
+   "zh": "戲合集",
+   "size": 35,
+   "weight": 900,
+   "align": "left",
+   "no_squeeze": true
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "archive": "AL_ENT_CHAR_J_TEX",
+ "ja": "サファイアコース",
+ "erase": [
+  [
+   0,
+   0,
+   128,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    1,
+    0,
+    128,
+    28
+   ],
+   "zh": "藍寶石賽道",
+   "size": 24,
+   "weight": 900,
+   "color": "#000000",
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    0,
+    0,
+    127,
+    28
+   ],
+   "zh": "藍寶石賽道",
+   "size": 24,
+   "weight": 900,
+   "color": "#ffffff",
+   "align": "left",
+   "dy": -3
+  }
+ ]
+}

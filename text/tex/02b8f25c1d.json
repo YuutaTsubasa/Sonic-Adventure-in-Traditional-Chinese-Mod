@@ -1,0 +1,28 @@
+{
+ "archive": "OBJ_AL_RACE",
+ "ja": "マルチ エントリー",
+ "erase": [
+  [
+   44,
+   3,
+   222,
+   26
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    0,
+    2,
+    256,
+    27
+   ],
+   "zh": "多人報名",
+   "size": 18,
+   "weight": 400,
+   "color": "#ffffff",
+   "align": "center"
+  }
+ ]
+}

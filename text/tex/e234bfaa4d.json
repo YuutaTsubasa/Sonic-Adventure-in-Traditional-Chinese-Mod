@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_AMY",
+ "ja": "追跡ロボットZEROに捕まらないように",
+ "erase": [
+  [
+   2,
+   0,
+   362,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    3,
+    0,
+    510,
+    32
+   ],
+   "zh": "別被追蹤機器人ZERO抓到，",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

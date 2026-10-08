@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_TAILS",
+ "ja": "■連続シッポ回転攻撃■",
+ "erase": [
+  [
+   3,
+   0,
+   226,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    4,
+    0,
+    254,
+    32
+   ],
+   "zh": "■連續尾巴旋轉攻擊■",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

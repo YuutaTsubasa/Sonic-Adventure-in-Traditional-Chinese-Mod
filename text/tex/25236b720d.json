@@ -1,0 +1,28 @@
+{
+ "archive": "ST_STAGE03",
+ "ja": "トゥインクル サーキット",
+ "erase": [
+  [
+   162,
+   38,
+   338,
+   53
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    150,
+    38,
+    350,
+    53
+   ],
+   "zh": "閃耀賽道",
+   "size": 15,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center"
+  }
+ ]
+}

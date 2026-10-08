@@ -1,0 +1,42 @@
+{
+ "archive": "OBJ_AL_RACE",
+ "ja": "ミスティック ルーイン",
+ "erase": [
+  [
+   0,
+   0,
+   128,
+   16
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    1,
+    0,
+    128,
+    16
+   ],
+   "zh": "神祕遺跡",
+   "size": 14,
+   "weight": 500,
+   "color": "#000000",
+   "align": "center",
+   "dy": 0.5
+  },
+  {
+   "rect": [
+    0,
+    0,
+    127,
+    16
+   ],
+   "zh": "神祕遺跡",
+   "size": 14,
+   "weight": 500,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": -0.5
+  }
+ ]
+}

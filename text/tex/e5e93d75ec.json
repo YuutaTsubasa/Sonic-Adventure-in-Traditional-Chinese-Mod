@@ -1,0 +1,1 @@
+{"archive": "AVA_CHSEL", "ja": "進行度", "erase": [[0, 0, 64, 32]], "blocks": [{"rect": [1, 1, 65, 19], "zh": "進度", "size": 18, "weight": 700, "color": "#000000", "align": "center", "dy": -2}, {"rect": [0, 0, 64, 18], "zh": "進度", "size": 18, "weight": 700, "color": "#ffffff", "align": "center", "dy": -2}]}

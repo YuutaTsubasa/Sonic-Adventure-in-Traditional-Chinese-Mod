@@ -1,8 +1,0 @@
-Name=texlist_02D03E14
-TexnameArrayName=textures_02D03DD8
-NumTextures=5
-TextureNames[0]=patlight_b
-TextureNames[1]=patlight_a
-TextureNames[2]=yakei_ref_b
-TextureNames[3]=smokelight
-TextureNames[4]=ref_crome

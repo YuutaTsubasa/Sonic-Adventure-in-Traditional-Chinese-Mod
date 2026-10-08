@@ -1,0 +1,16 @@
+{"tiles": ["map_mrs_j0.png", "map_mrs_j1.png", "map_mrs_j2.png", "map_mrs_j3.png", "map_mrs_j4.png", "map_mrs_j5.png"],
+ "twin": ["map_mrs_e0.png", "map_mrs_e1.png", "map_mrs_e2.png", "map_mrs_e3.png", "map_mrs_e4.png", "map_mrs_e5.png"],
+ "cols": 3, "thresh": 12, "dilate": 7,
+ "erase": [[100, 68, 548, 104], [326, 106, 353, 132], [495, 113, 567, 139], [166, 158, 239, 183], [362, 185, 435, 210], [490, 192, 562, 216], [517, 258, 622, 284], [149, 311, 222, 335], [295, 357, 401, 381], [528, 410, 668, 442]],
+ "blocks": [
+  {"rect": [104, 70, 548, 100], "zh": "神祕遺跡　車站區", "size": 26, "weight": 700, "color": "#ffffff", "glow": "#000040", "glow_r": 1.5, "align": "left"},
+  {"rect": [331, 109, 375, 130], "zh": "瀑布", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [500, 116, 560, 137], "zh": "礦車", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [172, 160, 236, 181], "zh": "礦車", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "right"},
+  {"rect": [367, 187, 440, 208], "zh": "風之洞窟", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [494, 194, 570, 215], "zh": "東之洞窟", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [522, 260, 620, 281], "zh": "塔爾斯工作室", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [150, 313, 220, 334], "zh": "西之洞窟", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "right"},
+  {"rect": [300, 359, 360, 380], "zh": "車站", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [533, 414, 664, 437], "zh": "：回到遊戲", "size": 17, "weight": 700, "color": "#ffffff", "glow": "#000030", "glow_r": 1.2, "align": "left"}
+ ]}

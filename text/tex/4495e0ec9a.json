@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_BIG",
+ "ja": "[Q][W]：釣りモードの解除",
+ "erase": [
+  [
+   102,
+   0,
+   266,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    103,
+    0,
+    510,
+    32
+   ],
+   "zh": "解除釣魚模式",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

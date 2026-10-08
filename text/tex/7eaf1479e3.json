@@ -1,0 +1,29 @@
+{
+ "archive": "M_STAGE03",
+ "ja": "アイスキャップ",
+ "erase": [
+  [
+   180,
+   72,
+   292,
+   90
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    156,
+    73,
+    316,
+    90
+   ],
+   "zh": "冰帽雪山",
+   "size": 15,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": -1
+  }
+ ]
+}

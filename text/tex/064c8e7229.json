@@ -1,0 +1,144 @@
+{
+ "archive": "GG_TEXLIST",
+ "ja": "「ソニックドリフト２」「テイルスのスカイパトロール」「Ｇソニック」「テイルスアドベンチャー」",
+ "erase": [
+  [
+   0,
+   12,
+   256,
+   30
+  ],
+  [
+   0,
+   73,
+   256,
+   92
+  ],
+  [
+   0,
+   139,
+   256,
+   157
+  ],
+  [
+   0,
+   203,
+   256,
+   221
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    1,
+    13,
+    200,
+    29
+   ],
+   "zh": "「Sonic Drift 2」",
+   "size": 14,
+   "weight": 700,
+   "color": "#000000",
+   "align": "center",
+   "dy": 1
+  },
+  {
+   "rect": [
+    0,
+    13,
+    199,
+    29
+   ],
+   "zh": "「Sonic Drift 2」",
+   "size": 14,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": 0
+  },
+  {
+   "rect": [
+    1,
+    74,
+    200,
+    91
+   ],
+   "zh": "「Tails' Skypatrol」",
+   "size": 14,
+   "weight": 700,
+   "color": "#000000",
+   "align": "center",
+   "dy": 1
+  },
+  {
+   "rect": [
+    0,
+    74,
+    199,
+    91
+   ],
+   "zh": "「Tails' Skypatrol」",
+   "size": 14,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": 0
+  },
+  {
+   "rect": [
+    1,
+    140,
+    200,
+    156
+   ],
+   "zh": "「G-Sonic」",
+   "size": 14,
+   "weight": 700,
+   "color": "#000000",
+   "align": "center",
+   "dy": 1
+  },
+  {
+   "rect": [
+    0,
+    140,
+    199,
+    156
+   ],
+   "zh": "「G-Sonic」",
+   "size": 14,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": 0
+  },
+  {
+   "rect": [
+    1,
+    204,
+    200,
+    220
+   ],
+   "zh": "「Tails Adventure」",
+   "size": 14,
+   "weight": 700,
+   "color": "#000000",
+   "align": "center",
+   "dy": 1
+  },
+  {
+   "rect": [
+    0,
+    204,
+    199,
+    220
+   ],
+   "zh": "「Tails Adventure」",
+   "size": 14,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": 0
+  }
+ ]
+}

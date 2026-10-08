@@ -1,0 +1,29 @@
+{
+ "archive": "E_STAGE05",
+ "ja": "ホット シェルター",
+ "erase": [
+  [
+   166,
+   72,
+   296,
+   90
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    151,
+    73,
+    311,
+    90
+   ],
+   "zh": "灼熱避難所",
+   "size": 15,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": -1
+  }
+ ]
+}

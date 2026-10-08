@@ -1,0 +1,40 @@
+{
+ "archive": "SCORE_RESULT",
+ "ja": "レベル",
+ "erase": [
+  [
+   0,
+   0,
+   128,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "zh": "等級",
+   "size": 23,
+   "weight": 700,
+   "align": "right",
+   "rect": [
+    2,
+    5,
+    102,
+    30
+   ],
+   "color": "#333333"
+  },
+  {
+   "zh": "等級",
+   "size": 23,
+   "weight": 700,
+   "align": "right",
+   "rect": [
+    0,
+    3,
+    100,
+    28
+   ],
+   "color": "#ffffff"
+  }
+ ]
+}

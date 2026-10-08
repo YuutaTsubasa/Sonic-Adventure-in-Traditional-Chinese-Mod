@@ -1,0 +1,28 @@
+{
+ "archive": "ST_STAGE01",
+ "ja": "スカイ チェイス ACT 1",
+ "erase": [
+  [
+   160,
+   38,
+   334,
+   53
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    147,
+    38,
+    347,
+    53
+   ],
+   "zh": "天空追擊　ACT 1",
+   "size": 15,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center"
+  }
+ ]
+}

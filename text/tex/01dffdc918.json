@@ -1,0 +1,52 @@
+{
+ "archive": "TUTOMSG_SONIC",
+ "ja": "ため終わってから[V]を離すと",
+ "erase": [
+  [
+   3,
+   0,
+   165,
+   32
+  ],
+  [
+   210,
+   0,
+   291,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    4,
+    0,
+    167,
+    32
+   ],
+   "zh": "蓄力完成後放開",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  },
+  {
+   "rect": [
+    211,
+    0,
+    510,
+    32
+   ],
+   "zh": "，",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

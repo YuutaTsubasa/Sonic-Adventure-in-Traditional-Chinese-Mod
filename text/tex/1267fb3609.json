@@ -1,0 +1,31 @@
+{
+ "archive": "TUTOMSG_SONIC",
+ "ja": "ジャンプ中＋[Space]",
+ "erase": [
+  [
+   2,
+   2,
+   125,
+   30
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    2,
+    0,
+    126,
+    32
+   ],
+   "zh": "跳躍中＋",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2,
+   "align": "left"
+  }
+ ],
+ "fill": "#ffcc00ff"
+}

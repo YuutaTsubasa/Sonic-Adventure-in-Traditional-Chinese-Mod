@@ -1,0 +1,42 @@
+{
+ "archive": "AL_ENT_CHAR_J_TEX",
+ "ja": "すすむ",
+ "erase": [
+  [
+   0,
+   0,
+   64,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    1,
+    0,
+    64,
+    22
+   ],
+   "zh": "下一步",
+   "size": 17,
+   "weight": 900,
+   "color": "#000000",
+   "align": "left",
+   "dy": 0
+  },
+  {
+   "rect": [
+    0,
+    0,
+    63,
+    22
+   ],
+   "zh": "下一步",
+   "size": 17,
+   "weight": 900,
+   "color": "#ffffff",
+   "align": "left",
+   "dy": -2
+  }
+ ]
+}

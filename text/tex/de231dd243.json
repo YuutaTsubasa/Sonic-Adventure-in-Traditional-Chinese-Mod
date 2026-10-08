@@ -1,0 +1,44 @@
+{
+ "archive": "AL_ENT_TITLE_J_TEX",
+ "ja": "ジュエルレース",
+ "erase": [
+  [
+   0,
+   0,
+   256,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    3,
+    0,
+    257,
+    30
+   ],
+   "zh": "寶石賽跑",
+   "size": 29,
+   "weight": 900,
+   "color": "#6622bb",
+   "align": "left",
+   "dy": 1,
+   "stroke": "#6622bb",
+   "stroke_w": 1
+  },
+  {
+   "rect": [
+    2,
+    0,
+    254,
+    30
+   ],
+   "zh": "寶石賽跑",
+   "size": 29,
+   "weight": 900,
+   "color": "#ffffff",
+   "align": "left",
+   "dy": -1
+  }
+ ]
+}

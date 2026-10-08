@@ -1,0 +1,29 @@
+{
+ "archive": "S_STAGE08",
+ "ja": "スカイ デッキ",
+ "erase": [
+  [
+   183,
+   72,
+   283,
+   90
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    153,
+    73,
+    313,
+    90
+   ],
+   "zh": "天空甲板",
+   "size": 15,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": -1
+  }
+ ]
+}

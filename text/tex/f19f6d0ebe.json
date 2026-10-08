@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_SONIC",
+ "ja": "■ライトスピンアタック■",
+ "erase": [
+  [
+   3,
+   0,
+   246,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    4,
+    0,
+    510,
+    32
+   ],
+   "zh": "■光速迴旋攻擊■",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

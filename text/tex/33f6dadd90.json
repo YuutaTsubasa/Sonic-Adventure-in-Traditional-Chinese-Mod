@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_SONIC",
+ "ja": "持つ：[V]",
+ "erase": [
+  [
+   2,
+   0,
+   59,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    3,
+    0,
+    64,
+    32
+   ],
+   "zh": "拿起：",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

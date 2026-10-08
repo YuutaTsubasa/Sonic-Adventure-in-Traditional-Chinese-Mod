@@ -1,0 +1,8 @@
+{"tiles": ["map_pse_j0.png", "map_pse_j1.png", "map_pse_j2.png", "map_pse_j3.png", "map_pse_j4.png", "map_pse_j5.png"],
+ "twin": ["map_pse_e0.png", "map_pse_e1.png", "map_pse_e2.png", "map_pse_e3.png", "map_pse_e4.png", "map_pse_e5.png"],
+ "cols": 3, "thresh": 12, "dilate": 7,
+ "erase": [[452, 166, 590, 191], [528, 410, 668, 442]],
+ "blocks": [
+  {"rect": [458, 168, 560, 189], "zh": "翡翠祭壇", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [533, 414, 664, 437], "zh": "：回到遊戲", "size": 17, "weight": 700, "color": "#ffffff", "glow": "#000030", "glow_r": 1.2, "align": "left"}
+ ]}

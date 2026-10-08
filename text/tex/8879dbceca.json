@@ -1,0 +1,70 @@
+{
+ "archive": "CHAO_HYOUJI",
+ "ja": "チャオとタマゴのみ持ち出せます。",
+ "erase": [
+  [
+   0,
+   0,
+   128,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    1,
+    0,
+    128,
+    16
+   ],
+   "zh": "只能帶出",
+   "size": 15,
+   "weight": 500,
+   "color": "#000000",
+   "align": "left",
+   "dy": 0
+  },
+  {
+   "rect": [
+    0,
+    0,
+    127,
+    16
+   ],
+   "zh": "只能帶出",
+   "size": 15,
+   "weight": 500,
+   "color": "#ffffff",
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    1,
+    16,
+    128,
+    32
+   ],
+   "zh": "巧歐和蛋。",
+   "size": 15,
+   "weight": 500,
+   "color": "#000000",
+   "align": "left",
+   "dy": 0
+  },
+  {
+   "rect": [
+    0,
+    16,
+    127,
+    32
+   ],
+   "zh": "巧歐和蛋。",
+   "size": 15,
+   "weight": 500,
+   "color": "#ffffff",
+   "align": "left",
+   "dy": -1
+  }
+ ]
+}

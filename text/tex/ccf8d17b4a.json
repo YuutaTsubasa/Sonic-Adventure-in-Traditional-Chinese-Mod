@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_E102",
+ "ja": "[Space]を押しつづけると、ジャンプ後",
+ "erase": [
+  [
+   43,
+   0,
+   326,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    44,
+    0,
+    510,
+    32
+   ],
+   "zh": "持續按住，跳躍後",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

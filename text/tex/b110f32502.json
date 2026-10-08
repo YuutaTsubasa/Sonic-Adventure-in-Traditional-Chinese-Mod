@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_KNUCKLES",
+ "ja": "[Space]をはなすと落下",
+ "erase": [
+  [
+   43,
+   0,
+   186,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    44,
+    0,
+    254,
+    32
+   ],
+   "zh": "放開就會落下",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{"tiles": ["map_ech_j0.png", "map_ech_j1.png", "map_ech_j2.png", "map_ech_j3.png", "map_ech_j4.png", "map_ech_j5.png"],
+ "twin": ["map_ech_e0.png", "map_ech_e1.png", "map_ech_e2.png", "map_ech_e3.png", "map_ech_e4.png", "map_ech_e5.png"],
+ "cols": 3, "thresh": 12, "dilate": 7,
+ "erase": [[100, 68, 362, 104], [418, 106, 475, 132], [241, 143, 345, 167], [125, 183, 230, 206], [502, 240, 669, 264], [202, 316, 260, 340], [456, 373, 498, 397], [528, 410, 668, 442]],
+ "blocks": [
+  {"rect": [104, 70, 362, 100], "zh": "蛋頭母艦　大廳", "size": 26, "weight": 700, "color": "#ffffff", "glow": "#000040", "glow_r": 1.5, "align": "left"},
+  {"rect": [422, 109, 480, 130], "zh": "武器庫", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [246, 145, 340, 166], "zh": "電梯", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "center"},
+  {"rect": [130, 185, 226, 206], "zh": "傳送門", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "right"},
+  {"rect": [508, 243, 668, 264], "zh": "刺蝟敲敲樂", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [206, 318, 265, 339], "zh": "貯水槽", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [460, 375, 510, 396], "zh": "牢房", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [533, 414, 664, 437], "zh": "：回到遊戲", "size": 17, "weight": 700, "color": "#ffffff", "glow": "#000030", "glow_r": 1.2, "align": "left"}
+ ]}

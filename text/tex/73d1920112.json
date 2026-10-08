@@ -1,0 +1,1 @@
+{"archive": "AVA_SNDTEST", "ja": "[Enter]：演奏　[Esc]：戻る", "erase": [[58, 9, 96, 29], [215, 9, 253, 29]], "erase_mode": "row", "blocks": [{"rect": [58, 9, 110, 29], "zh": "播放", "size": 15, "weight": 700, "color": "#000000", "align": "left"}, {"rect": [215, 9, 270, 29], "zh": "返回", "size": 15, "weight": 700, "color": "#000000", "align": "left"}]}

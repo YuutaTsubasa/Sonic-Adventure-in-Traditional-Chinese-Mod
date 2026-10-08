@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_E102",
+ "ja": "[V]：ロックオン",
+ "erase": [
+  [
+   104,
+   0,
+   206,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    105,
+    0,
+    254,
+    32
+   ],
+   "zh": "鎖定",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "archive": "TUTOMSG_SONIC",
+ "ja": "ゆらす：[V]を押しながら[方向鍵]",
+ "erase": [
+  [
+   3,
+   0,
+   79,
+   32
+  ],
+  [
+   130,
+   0,
+   252,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    4,
+    0,
+    85,
+    32
+   ],
+   "zh": "搖晃：",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  },
+  {
+   "rect": [
+    131,
+    0,
+    252,
+    32
+   ],
+   "zh": "按住並轉動",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

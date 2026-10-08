@@ -1,0 +1,29 @@
+{
+ "archive": "S_STAGE02",
+ "ja": "ウィンディ バレー",
+ "erase": [
+  [
+   169,
+   72,
+   297,
+   90
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    153,
+    73,
+    313,
+    90
+   ],
+   "zh": "風之谷",
+   "size": 15,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": -1
+  }
+ ]
+}

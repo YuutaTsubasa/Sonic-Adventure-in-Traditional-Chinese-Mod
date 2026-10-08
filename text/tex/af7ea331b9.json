@@ -1,0 +1,28 @@
+{
+ "archive": "OBJ_AL_RACE",
+ "ja": "チャオレース ・ジュエル・",
+ "erase": [
+  [
+   16,
+   3,
+   240,
+   26
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    0,
+    2,
+    256,
+    27
+   ],
+   "zh": "巧歐賽跑　・寶石・",
+   "size": 18,
+   "weight": 400,
+   "color": "#ffffff",
+   "align": "center"
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "archive": "GG_TEXLIST",
+ "ja": "「ソニックラビリンス」「ソニック・ザ・ヘッジホッグ２」「Dr.エッグマンのミーンビーンマシーン」「ソニック＆テイルス２」",
+ "erase": [
+  [
+   0,
+   11,
+   256,
+   30
+  ],
+  [
+   0,
+   73,
+   256,
+   92
+  ],
+  [
+   0,
+   130,
+   256,
+   167
+  ],
+  [
+   0,
+   203,
+   256,
+   221
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    1,
+    12,
+    200,
+    29
+   ],
+   "zh": "「Sonic Labyrinth」",
+   "size": 14,
+   "weight": 700,
+   "color": "#000000",
+   "align": "center",
+   "dy": 1
+  },
+  {
+   "rect": [
+    0,
+    12,
+    199,
+    29
+   ],
+   "zh": "「Sonic Labyrinth」",
+   "size": 14,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": 0
+  },
+  {
+   "rect": [
+    1,
+    74,
+    200,
+    91
+   ],
+   "zh": "「刺蝟索尼克２」",
+   "size": 14,
+   "weight": 700,
+   "color": "#000000",
+   "align": "center",
+   "dy": 1
+  },
+  {
+   "rect": [
+    0,
+    74,
+    199,
+    91
+   ],
+   "zh": "「刺蝟索尼克２」",
+   "size": 14,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": 0
+  },
+  {
+   "rect": [
+    1,
+    131,
+    200,
+    166
+   ],
+   "zh": "「Dr. Robotnik's\nMean Bean Machine」",
+   "size": 14,
+   "weight": 700,
+   "color": "#000000",
+   "align": "center",
+   "dy": 1,
+   "leading": 1.0
+  },
+  {
+   "rect": [
+    0,
+    131,
+    199,
+    166
+   ],
+   "zh": "「Dr. Robotnik's\nMean Bean Machine」",
+   "size": 14,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": 0,
+   "leading": 1.0
+  },
+  {
+   "rect": [
+    1,
+    204,
+    200,
+    220
+   ],
+   "zh": "「Sonic & Tails 2」",
+   "size": 14,
+   "weight": 700,
+   "color": "#000000",
+   "align": "center",
+   "dy": 1
+  },
+  {
+   "rect": [
+    0,
+    204,
+    199,
+    220
+   ],
+   "zh": "「Sonic & Tails 2」",
+   "size": 14,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": 0
+  }
+ ]
+}

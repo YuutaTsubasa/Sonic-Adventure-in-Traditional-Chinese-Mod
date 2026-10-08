@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_E102",
+ "ja": "[Space]をはなすと通常落下",
+ "erase": [
+  [
+   43,
+   0,
+   226,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    44,
+    0,
+    510,
+    32
+   ],
+   "zh": "放開即恢復正常落下",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

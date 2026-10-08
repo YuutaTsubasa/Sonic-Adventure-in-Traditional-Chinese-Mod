@@ -1,0 +1,29 @@
+{
+ "archive": "B_STAGE03",
+ "ja": "エメラルド コースト",
+ "erase": [
+  [
+   163,
+   72,
+   307,
+   90
+  ]
+ ],
+ "erase_mode": "row",
+ "blocks": [
+  {
+   "rect": [
+    155,
+    73,
+    315,
+    90
+   ],
+   "zh": "翡翠海岸",
+   "size": 15,
+   "weight": 700,
+   "color": "#ffffff",
+   "align": "center",
+   "dy": -1
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{"tiles": ["map_mra_j0.png", "map_mra_j1.png", "map_mra_j2.png", "map_mra_j3.png", "map_mra_j4.png", "map_mra_j5.png"],
+ "twin": ["map_mra_e0.png", "map_mra_e1.png", "map_mra_e2.png", "map_mra_e3.png", "map_mra_e4.png", "map_mra_e5.png"],
+ "cols": 3, "thresh": 12, "dilate": 7,
+ "erase": [[100, 66, 435, 99], [435, 66, 485, 95], [485, 66, 568, 99], [252, 108, 325, 133], [476, 112, 550, 138], [517, 278, 655, 304], [177, 302, 265, 326], [528, 410, 668, 442]],
+ "blocks": [
+  {"rect": [104, 70, 568, 100], "zh": "神祕遺跡　天使島", "size": 26, "weight": 700, "color": "#ffffff", "glow": "#000040", "glow_r": 1.5, "align": "left"},
+  {"rect": [250, 110, 322, 131], "zh": "冰之洞窟", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "right"},
+  {"rect": [480, 114, 560, 135], "zh": "西之洞窟", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [522, 280, 620, 301], "zh": "翡翠祭壇", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "left"},
+  {"rect": [180, 304, 262, 325], "zh": "看守猴子", "size": 17, "weight": 700, "color": "#ffe882", "glow": "#000030", "glow_r": 1.2, "align": "right"},
+  {"rect": [533, 414, 664, 437], "zh": "：回到遊戲", "size": 17, "weight": 700, "color": "#ffffff", "glow": "#000030", "glow_r": 1.2, "align": "left"}
+ ]}

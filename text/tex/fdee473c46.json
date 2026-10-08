@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_AMY",
+ "ja": "ZEROの手から逃れよう",
+ "erase": [
+  [
+   3,
+   0,
+   221,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    4,
+    0,
+    254,
+    32
+   ],
+   "zh": "逃離ZERO的魔掌吧",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

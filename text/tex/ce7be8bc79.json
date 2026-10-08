@@ -1,0 +1,52 @@
+{
+ "archive": "TUTOMSG_KNUCKLES",
+ "ja": "[Space]と[V]を同時に押すと",
+ "erase": [
+  [
+   44,
+   0,
+   64,
+   32
+  ],
+  [
+   110,
+   0,
+   251,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    45,
+    0,
+    67,
+    32
+   ],
+   "zh": "和",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  },
+  {
+   "rect": [
+    111,
+    0,
+    510,
+    32
+   ],
+   "zh": "同時按下，",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

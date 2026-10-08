@@ -1,0 +1,30 @@
+{
+ "archive": "TUTOMSG_SONIC",
+ "ja": "[V]を押し続けるとパワーがたまる",
+ "erase": [
+  [
+   43,
+   0,
+   325,
+   32
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    44,
+    0,
+    510,
+    32
+   ],
+   "zh": "持續按住即可蓄力",
+   "align": "left",
+   "size": 22,
+   "weight": 800,
+   "color": "#ffffff",
+   "glow": "#000000",
+   "glow_r": 1,
+   "dy": -2
+  }
+ ]
+}

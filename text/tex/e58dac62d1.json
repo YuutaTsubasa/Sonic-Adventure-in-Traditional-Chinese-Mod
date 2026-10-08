@@ -1,0 +1,251 @@
+{
+ "archive": "AL_TEX_ODEKAKE_MENU_JP",
+ "ja": "チャオのプチガーデン/おでかけするチャオ/もどる/とりだす/おでかけ/とりだす/なまえをつける/さようなら/やめる/キャンセル/さようなら・・・",
+ "erase": [
+  [
+   0,
+   0,
+   256,
+   47
+  ],
+  [
+   0,
+   47,
+   128,
+   70
+  ],
+  [
+   130,
+   47,
+   256,
+   74
+  ],
+  [
+   0,
+   70,
+   128,
+   135
+  ],
+  [
+   0,
+   128,
+   256,
+   200
+  ],
+  [
+   0,
+   200,
+   130,
+   230
+  ],
+  [
+   160,
+   200,
+   256,
+   230
+  ],
+  [
+   0,
+   230,
+   130,
+   256
+  ]
+ ],
+ "blocks": [
+  {
+   "rect": [
+    0,
+    0,
+    256,
+    23
+   ],
+   "zh": "巧歐迷你花園",
+   "size": 19,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 2,
+   "align": "center"
+  },
+  {
+   "rect": [
+    0,
+    23,
+    256,
+    47
+   ],
+   "zh": "外出的巧歐",
+   "size": 19,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 2,
+   "align": "center"
+  },
+  {
+   "rect": [
+    20,
+    47,
+    110,
+    70
+   ],
+   "zh": "返回",
+   "size": 19,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 2,
+   "align": "center"
+  },
+  {
+   "rect": [
+    140,
+    47,
+    240,
+    70
+   ],
+   "zh": "取出",
+   "size": 19,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 2,
+   "align": "center"
+  },
+  {
+   "rect": [
+    0,
+    70,
+    128,
+    101
+   ],
+   "zh": "外出",
+   "size": 27,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 2,
+   "align": "left"
+  },
+  {
+   "rect": [
+    0,
+    101,
+    128,
+    132
+   ],
+   "zh": "取出",
+   "size": 27,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 2,
+   "align": "left"
+  },
+  {
+   "rect": [
+    0,
+    135,
+    128,
+    165
+   ],
+   "zh": "取名字",
+   "size": 25,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 2,
+   "align": "left"
+  },
+  {
+   "rect": [
+    128,
+    135,
+    256,
+    165
+   ],
+   "zh": "取名字",
+   "size": 25,
+   "weight": 900,
+   "color": "#cecece",
+   "stroke": "#636363",
+   "stroke_w": 2,
+   "align": "left"
+  },
+  {
+   "rect": [
+    0,
+    166,
+    128,
+    199
+   ],
+   "zh": "再見",
+   "size": 27,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 2,
+   "align": "left"
+  },
+  {
+   "rect": [
+    128,
+    166,
+    256,
+    199
+   ],
+   "zh": "再見",
+   "size": 27,
+   "weight": 900,
+   "color": "#cecece",
+   "stroke": "#636363",
+   "stroke_w": 2,
+   "align": "left"
+  },
+  {
+   "rect": [
+    0,
+    200,
+    128,
+    231
+   ],
+   "zh": "結束",
+   "size": 27,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 2,
+   "align": "left"
+  },
+  {
+   "rect": [
+    160,
+    201,
+    256,
+    229
+   ],
+   "zh": "取消",
+   "size": 20,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 2,
+   "align": "left"
+  },
+  {
+   "rect": [
+    8,
+    231,
+    128,
+    256
+   ],
+   "zh": "再見……",
+   "size": 20,
+   "weight": 900,
+   "color": "#ffffff",
+   "stroke": "#000000",
+   "stroke_w": 2,
+   "align": "left"
+  }
+ ]
+}
