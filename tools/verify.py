@@ -44,6 +44,8 @@ def main():
                         if k.isdigit():
                             vals.append(v)
                         i += 1
+                    while vals and vals[-1] == "":   # padding lines (see build.write_split)
+                        vals.pop()
                     got = "\n".join(vals)
                 elif "key" in loc:
                     got = lines[loc["line"]].split("=", 1)[1].replace("\\n", "\n")
@@ -78,6 +80,14 @@ def main():
     names = [build.winpath(f) for f in re.findall(r"^filename=(.*)$", ini, re.M)]
     orphan = [p for p in {l["path"] for u, t, d in build.final_texts() if d for l in u["locs"] if l["src"] == "split"}
               if not any(p == f or p.startswith(f.rstrip("/") + "/") for f in names)]
+    # unbounded loader writes: stringarray entries must match the array length exactly
+    for sec in ini.split("\n\n"):
+        kv = dict(l.split("=", 1) for l in sec.splitlines() if "=" in l)
+        if kv.get("type") == "stringarray":
+            got = build.loader_entries((OUT / build.winpath(kv["filename"])).read_text(encoding="utf-8"))
+            if got != int(kv["length"]):
+                print(f"STRINGARRAY OVERFLOW {kv['filename']}: {got} entries > {kv['length']}")
+                bad.append(("stringarray", kv["filename"], ""))
     print(f"locations {n}, mismatches {len(bad)}, characters drawn {len(drawn)}, missing glyphs {len(empty)}, "
           f"split files not in sonic_data.ini {len(orphan)}")
     for b in bad[:20]:

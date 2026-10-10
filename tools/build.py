@@ -22,7 +22,7 @@ SPLIT, SYSTEM = ROOT / "source/split", ROOT / "source/system"
 MODDIR = "SADX_zh-TW"
 OUT = ROOT / "out" / MODDIR
 GAME = Path(r"C:/Program Files (x86)/Steam/steamapps/common/Sonic Adventure DX")
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 CJK = re.compile(r"[一-鿿]")
 
 
@@ -86,16 +86,15 @@ def write_split(per_file, m, out):
                 lines[i] = f"{k}={v.replace(chr(10), chr(92) + 'n')}"
             else:
                 lines[i] = v.replace("\n", "\\n")
-        # mission tutorial pages: rewrite the page's numbered lines and NumLines
+        # mission tutorial pages: the loader writes NumLines strings into the game's own
+        # line array but never the game's line count, so keep NumLines and pad short
+        # pages with empty lines (otherwise the last Japanese line would still show)
         for loc, v in sorted(pages, key=lambda p: -p[0]["line"]):
             i, n = loc["line"], loc["n"]
             new = v.split("\n")
             assert len(new) <= n, (rel, loc)
+            new += [""] * (n - len(new))
             lines[i:i + n] = [f"{j}={t}" for j, t in enumerate(new)]
-            j = i - 1
-            while not lines[j].startswith("NumLines="):
-                j -= 1
-            lines[j] = f"NumLines={len(new)}"
         dst = out / rel
         dst.parent.mkdir(parents=True, exist_ok=True)
         dst.write_text(nl.join(lines), encoding="utf-8")
@@ -136,8 +135,36 @@ def write_data_ini(changed, out):
             if not d.exists():
                 d.parent.mkdir(parents=True, exist_ok=True)
                 shutil.copy2(f, d)
+    for sec in keep:
+        fit_string_array(sec, out)
     (out / "sonic_data.ini").write_text("\n\n".join("\n".join(s) for s in keep) + "\n", encoding="utf-8")
     return len(keep)
+
+
+def loader_entries(text):
+    """How many strings the Mod Loader reads from a text file: one per getline() while
+    the stream is good, so a final newline adds an empty (NULL) entry."""
+    return len(text.split("\n"))
+
+
+def fit_string_array(sec, out):
+    """A stringarray item is copied over the array with one pointer per line read and no
+    bound. A trailing newline made 'Japanese Level List' write a 40th pointer over the
+    table after it (VS Knuckles became Sonic, 2026-10-11). Trim it to exactly `length`."""
+    kv = dict(l.split("=", 1) for l in sec[1:] if "=" in l)
+    if kv.get("type") != "stringarray":
+        return
+    p = out / winpath(kv["filename"])
+    if not p.exists():
+        return
+    with open(p, encoding="utf-8", newline="") as f:   # keep the CRLF line ends
+        text = f.read()
+    n = int(kv["length"])
+    while loader_entries(text) > n and text.endswith(("\r\n", "\n")):
+        text = text[:-2] if text.endswith("\r\n") else text[:-1]
+    if loader_entries(text) != n:
+        raise SystemExit(f"{kv['filename']}: loader would read {loader_entries(text)} entries, array holds {n}")
+    p.write_bytes(text.encode("utf-8"))
 
 
 def main():

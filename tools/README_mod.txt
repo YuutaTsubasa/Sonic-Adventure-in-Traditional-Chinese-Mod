@@ -1,4 +1,4 @@
-《索尼克大冒險 DX》繁體中文化 MOD v1.0.0
+《索尼克大冒險 DX》繁體中文化 MOD v1.0.1
 
 安裝：
 1. 先用 SADX Mod Installer 把 Steam 版轉成 2004 版並裝好 SA Mod Manager。
